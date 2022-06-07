@@ -19,14 +19,14 @@ jobs:
       - uses: gr2m/write-csv-file-action@v1.x
         with:
           path: data/octokit.csv
-          #columns: open issues,closed issues,open pull requests,closed pull requests,merged pull requests
-          #"open issues": ${{ fromJson(steps.stats.outputs.data).openIssues }}
-          #"closed issues": ${{ fromJson(steps.stats.outputs.data).closedIssues }}
-          #"open pull requests": ${{ fromJson(steps.stats.outputs.data).openPullRequests }}
-          #"closed pull requests": ${{ fromJson(steps.stats.outputs.data).closedPullRequests }}
-          #"merged pull requests": ${{ fromJson(steps.stats.outputs.data).mergedPullRequests }}
+          columns: open issues,closed issues,open pull requests,closed pull requests,merged pull requests
+          "Date": ${{ fromJson(steps.stats.outputs.data).openIssues }}
+          "Commit_ID": ${{ fromJson(steps.stats.outputs.data).closedIssues }}
+          "Author": ${{ fromJson(steps.stats.outputs.data).openPullRequests }}
+          "Email": ${{ fromJson(steps.stats.outputs.data).closedPullRequests }}
+          "Subject": ${{ fromJson(steps.stats.outputs.data).mergedPullRequests }}
       # push updated file back to main branch
-      - run: git ls-files | while read file; do git log -n 1 --pretty="$file", commit_id, %H%n$file, author, %cn" -- $file; done > data/octokit.csv
+      - run: git log --pretty=format:%cI,%h,%an,%ae,%s > data/ocktokit.csv
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
       - run: git add data
