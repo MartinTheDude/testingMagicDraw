@@ -11,7 +11,6 @@ jobs:
       with:
           path: data/octokit.csv
           columns: Date, Commit_ID, Author, Email, Subject
-          "Date": git log %H
             
    
     - run: git config --local user.email "action@github.com"
