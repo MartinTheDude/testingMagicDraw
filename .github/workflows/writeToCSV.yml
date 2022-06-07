@@ -14,7 +14,7 @@ jobs:
         with:
           org: octokit
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # append stats to data/octokit.csv
       - uses: gr2m/write-csv-file-action@v1.x
         with:
@@ -30,7 +30,7 @@ jobs:
       - run: git config --local user.name "GitHub Action"
       - run: git add data
       - run: git commit -m "data/octokit.csv updated"
-      - run: "git push https://x-access-token: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@github.com/testingMagicDraw.git HEAD"
+      - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
