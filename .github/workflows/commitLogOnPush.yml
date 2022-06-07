@@ -6,7 +6,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: git log --pretty=format:%cI,%h,%an,%ae,%s > data/octokit.csv
+    - run: git log 
+    - uses: gr2m/write-csv-file-action@v1.x
+      with:
+          path: data/octokit.csv
+          columns: Date, Commit_ID, Author, Email, Subject
+          "Date": git log %H
+            
+   
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
     - run: git add data
