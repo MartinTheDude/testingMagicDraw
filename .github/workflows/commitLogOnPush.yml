@@ -9,7 +9,7 @@ jobs:
       with:
            ref: ${{ github.event.pull_request.head.sah }}
            fetch-depth: 0
-    - run: git log --pretty="$file,Commit_ID, Date %n$file,Date, %ci%n$file, Author, %cn" > data/octokit.csv
+    - run: git log --pretty="$file,Commit_ID, Date, Author %n$file> data/octokit.csv
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
     - run: git add data
