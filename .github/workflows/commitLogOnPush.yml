@@ -2,8 +2,28 @@ name: commitLogOnPush
 on: push
 
 jobs:
+  headers: 
+      runs-on: ubuntu-latest
+      steps:
+      - uses: actions/checkout@v2
+      # append stats to data/octokit.csv
+      - uses: gr2m/write-csv-file-action@v1.x
+        with:
+          path: data/octokit.csv
+          columns: open issues,closed issues,open pull requests,closed pull requests
+          "open issues": "Commit_ID"
+          "closed issues": "Date/Time"
+          "open pull requests": "Author"
+          "closed pull requests": "Subject"
+      # push updated file back to main branch
+      - run: git config --local user.email "action@github.com"
+      - run: git config --local user.name "GitHub Action"
+      - run: git add data
+      - run: git commit -m "data/octokit.csv updated"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  testing: 
+  populate: 
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -15,30 +35,10 @@ jobs:
     - run: git config --local user.name "GitHub Action"
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
-   # - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
+    - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  cleanup: 
-      runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v2
-      # append stats to data/octokit.csv
-      - uses: gr2m/write-csv-file-action@v1.x
-        with:
-          path: data/octokit.csv
-          columns: open issues,closed issues,open pull requests,closed pull requests
-          "open issues": 1
-          "closed issues": 2
-          "open pull requests": 3
-          "closed pull requests": 4
-      # push updated file back to main branch
-      - run: git config --local user.email "action@github.com"
-      - run: git config --local user.name "GitHub Action"
-      - run: git add data
-      - run: git commit -m "data/octokit.csv updated"
-      - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
  
 
 
