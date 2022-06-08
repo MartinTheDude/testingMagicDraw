@@ -9,9 +9,10 @@ jobs:
       with:
            ref: ${{ github.event.pull_request.head.sah }}
            fetch-depth: 0
-    - run: git log --pretty="$file,Commit_ID, Date, Author, Subject %n$file,%H, %cI, %an, %s" > data/octokit.csv
+    - run: git log --pretty="%H, %cI, %an, %s" > data/octokit.csv
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
+    - run: git add --pretty="$file,Commit_ID, Date, Author, Subject %n$file" > data/ocktokit.csv
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
