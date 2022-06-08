@@ -11,10 +11,10 @@ jobs:
         with:
           path: data/octokit.csv
           columns: open issues,closed issues,open pull requests,closed pull requests
-          "open issues": "Commit_ID"
-          "closed issues": "Date/Time"
-          "open pull requests": "Author"
-          "closed pull requests": "Subject"
+          "open issues": 1
+          "closed issues": 2
+          "open pull requests": 3
+          "closed pull requests": 4
       # push updated file back to main branch
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
