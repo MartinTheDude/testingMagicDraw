@@ -2,9 +2,8 @@ name: commitLogOnPush
 on: push
 
 jobs:
-  
 
-  populate: 
+  testing: 
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -16,9 +15,10 @@ jobs:
     - run: git config --local user.name "GitHub Action"
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
+   # - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  headers: 
+  cleanup: 
       runs-on: ubuntu-latest
       steps:
       - uses: actions/checkout@v2
@@ -26,21 +26,11 @@ jobs:
       - uses: gr2m/write-csv-file-action@v1.x
         with:
           path: data/octokit.csv
-          columns: col1,col2,col3,col4
-          "col1": "Commit_ID"
-          "col2": "Date/Time"
-          "col3": "Author"
-          "col4": "Subject"
-      # push updated file back to main branch
-      - run: git config --local user.email "action@github.com"
-      - run: git config --local user.name "GitHub Action"
-      - run: git add data
-      - run: git commit -m "data/octokit.csv updated"
-      - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
- 
+          columns: open issues,closed issues,open pull requests,closed pull requests
+          "open issues": 1
+          "closed issues": 2
+          "open pull requests": 3
+          "closed pull requests": 4
 
 
  
