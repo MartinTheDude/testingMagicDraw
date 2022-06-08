@@ -2,6 +2,7 @@ name: commitLogOnPush
 on: push
 
 jobs:
+
   testing: 
     runs-on: ubuntu-latest
     steps:
@@ -12,10 +13,24 @@ jobs:
     - run: git log --pretty="%H, %cI, %an, %s" > data/octokit.csv
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
-    - run: git add --pretty="$file,Commit_ID, Date, Author, Subject %n$file" > data/ocktokit.csv
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  cleanup: 
+      runs-on: ubuntu-latest
+      steps:
+      - name: checkout main branch
+        uses: actions/checkout@v2
+      - uses: gr2m/write-csv-file-action@v1.x
+        with:
+          path: data/octokit.csv
+          columns: Column 1, Column 2, Column 3, Column 4
+          "Column 1": 1
+          "Column 2": 2
+          "Column 3": 3
+          "Column 4": 4
+          
+      
           
