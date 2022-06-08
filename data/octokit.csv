@@ -1,172 +1,89 @@
-,Commit_ID, Date, Author, Subject 
-,e029be2865d1a084fd75e0a3956c835d0fa17dd4, 2022-06-08T12:53:17-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,defa05b659578a799c921211ed81a25c2c2d0e56, 2022-06-08T12:51:27-04:00, MartinTheDude, One line
-,Commit_ID, Date, Author, Subject 
-,8e32cbb72c3c5d89b40ad176896cef8a5bcccdf3, 2022-06-08T16:49:30+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,ea20c1e18ba1b284a8cd07568e422cafe4558b90, 2022-06-08T12:49:19-04:00, MartinTheDude, test
-,Commit_ID, Date, Author, Subject 
-,c99ab9b508f15f4016a3ed2575fd16aa5cef64bf, 2022-06-08T16:48:44+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,caa3f1ac4fd6c39b72f5b60ad4ea32ee609e092c, 2022-06-08T12:48:31-04:00, MartinTheDude, full header test
-,Commit_ID, Date, Author, Subject 
-,2e9a0547c8b37f47d70456cb1dd0b39947516f17, 2022-06-08T16:46:38+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,70fe02a47b9a28be8b9fc768b63d1ab57a47ce2f, 2022-06-08T12:46:26-04:00, MartinTheDude, test
-,Commit_ID, Date, Author, Subject 
-,42c5da7b8c24336a44f0a1867b9cdffc771d6554, 2022-06-08T12:45:26-04:00, MartinTheDude, testing headers
-,Commit_ID, Date, Author, Subject 
-,9296f7706f106d7559b54ffade4a9af293860295, 2022-06-08T16:42:24+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,b9e805f2684b262b18144bfc38536741ba8ea3d8, 2022-06-08T12:42:14-04:00, MartinTheDude, headertest 4
-,Commit_ID, Date, Author, Subject 
-,884fb0f03ed71d720907b7a3639f32850ed97438, 2022-06-08T16:40:37+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,3c2419f737eec78a2309d898cac06f298fd3ebd7, 2022-06-08T12:40:25-04:00, MartinTheDude, test blank
-,Commit_ID, Date, Author, Subject 
-,00db5ea60e11b468ceff164e1b57a63a4d95ad92, 2022-06-08T16:38:22+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,806c19f5cc71423b54dc169bc7fdf9031a4eae79, 2022-06-08T12:38:12-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,af9afb5ac2f8abf462d2f33775056366896faeda, 2022-06-08T16:36:24+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,ba9f10d8637737194498d09a97f1228f134cf0a8, 2022-06-08T12:36:12-04:00, MartinTheDude, del first column
-,Commit_ID, Date, Author, Subject 
-,ad0b63eec9fe571ff795101694bdf5beba0141a1, 2022-06-08T16:35:19+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,4151cf3bf11626b8d63391d4d22c03c57509ceaf, 2022-06-08T12:35:07-04:00, MartinTheDude, test
-,Commit_ID, Date, Author, Subject 
-,0478bcc34df434e153c4611861701dce98ee6f4a, 2022-06-08T16:34:16+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,a62040ab7936065e1d65d0432b2db06a59c84dd9, 2022-06-08T12:33:51-04:00, MartinTheDude, vert test 2
-,Commit_ID, Date, Author, Subject 
-,04cb4224d13b950b22b4870869bf97d5d96fc8f1, 2022-06-08T16:32:41+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,3228fdf9a946aa81e30898c79ef9cc9f6e032d2e, 2022-06-08T12:32:28-04:00, MartinTheDude, captiloize
-,Commit_ID, Date, Author, Subject 
-,4de9773984004215ec76004000dc2c0c8f6d3805, 2022-06-08T16:31:07+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,bd6757c56dba9525ab532d4350e152efd114c8af, 2022-06-08T12:30:55-04:00, MartinTheDude, roll back
-,Commit_ID, Date, Author, Subject 
-,5d4c0e1c1dc21bdb36a5c7fe7678d65920a27fd6, 2022-06-08T16:29:22+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,a5e5aca228e93899ec5451eacc3cb3df24679868, 2022-06-08T12:29:11-04:00, MartinTheDude, getting back to square 1
-,Commit_ID, Date, Author, Subject 
-,08c6ad704cb38c7ce213fc130ab42e217b75453a, 2022-06-08T16:25:55+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,b57254c1ab5cf00ce96106bab11bb5d67a459552, 2022-06-08T12:25:44-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,a66c60d7abb40efd4bbc901773c264de47db5c9a, 2022-06-08T16:24:47+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,8eb0af7957a936a71134d5db2cfc28a5a5f82f92, 2022-06-08T12:24:36-04:00, MartinTheDude, Getting Data vert test
-,Commit_ID, Date, Author, Subject 
-,d4ed992d1d7465c893b532812804cb785e4c6dea, 2022-06-08T16:21:09+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,ec04bd6f4a5d9e46bf90ad8d3b0918dd7e901a81, 2022-06-08T12:20:57-04:00, MartinTheDude, header attempt
-,Commit_ID, Date, Author, Subject 
-,58694a298b6630c007c821067a9fdf55bc8e49cd, 2022-06-08T16:18:30+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,46e40025be79288b5b18fcfae4c1f8fccb8baa9f, 2022-06-08T12:18:19-04:00, MartinTheDude, fixed
-,Commit_ID, Date, Author, Subject 
-,0d237201a8866187cbaaea27704b0bb4a3e31dd0, 2022-06-08T12:17:29-04:00, MartinTheDude, full history
-,Commit_ID, Date, Author, Subject 
-,d505d84cc933688e9b1b043a22202ad95d14f4f3, 2022-06-08T16:12:07+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,d3099150116e04730974c1ad1adfa9312b63f09b, 2022-06-08T12:11:51-04:00, MartinTheDude, Update commitLogOnPush.yml
-,Commit_ID, Date, Author, Subject 
-,17d73b1b87142acdb4c956910ef377b9afe325fb, 2022-06-08T12:11:26-04:00, MartinTheDude, Update octokit.csv
-,Commit_ID, Date, Author, Subject 
-,37290de654668b6f2e77f5d185922964a1186466, 2022-06-08T16:08:30+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,c967547189d4af40246b5656d3c28d70a7263205, 2022-06-08T12:08:18-04:00, MartinTheDude, header test
-,Commit_ID, Date, Author, Subject 
-,52c2ac07f43b4915e4646d44156deaf586d79868, 2022-06-08T16:07:00+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,a3dcfdc38b5e16e8749b3c153fd4c01239355f32, 2022-06-08T12:06:42-04:00, MartinTheDude, quotestest
-,Commit_ID, Date, Author, Subject 
-,9cc088d271d4990a2c1a3bbd3056f0013b04daa0, 2022-06-07T21:41:59+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,5ad61a0a12f55608959d8fd266c9751b6184d3cf, 2022-06-07T17:41:43-04:00, MartinTheDude, end today
-,Commit_ID, Date, Author, Subject 
-,bf7fbed90d033e9168dc9e43df8b49f387231e5e, 2022-06-07T21:26:33+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,053957c703356183478553032f3d4ff8c85c7a67, 2022-06-07T17:26:23-04:00, MartinTheDude, seeing
-,Commit_ID, Date, Author, Subject 
-,9b2fc8716d727e00698ba37ce74fc72f19f7bcff, 2022-06-07T21:24:23+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,fcfffd321e77ec5ebd7f29ef2fa4b6f505303269, 2022-06-07T17:24:10-04:00, MartinTheDude, back
-,Commit_ID, Date, Author, Subject 
-,7074a126f503d1c39cc44d2540f590a3ad187228, 2022-06-07T17:22:30-04:00, MartinTheDude, test
-,Commit_ID, Date, Author, Subject 
-,5028624e3399eb90219c1ef47f6740e3437d6060, 2022-06-07T21:20:30+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,6dd7e43fbd8956ee31ea728d56f8559d917c13b6, 2022-06-07T17:20:19-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,f44c28932d2d436032e16d25d3fe6da6b2aaf420, 2022-06-07T17:19:07-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,4dfa2144a986c3300f7a023196684bf02b495230, 2022-06-07T16:53:35-04:00, MartinTheDude, basic
-,Commit_ID, Date, Author, Subject 
-,36f9a29f951928dd83b9db5dfc2a71d8df3a4b2f, 2022-06-07T16:52:55-04:00, MartinTheDude, basic
-,Commit_ID, Date, Author, Subject 
-,6415e5f8b1b43e2f73ebfc8455afa111dc35fb35, 2022-06-07T16:52:19-04:00, MartinTheDude, test format
-,Commit_ID, Date, Author, Subject 
-,64ee81893a204565b0147d6461f9706c4198172b, 2022-06-07T20:38:55+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,ca8275dca9ea14c7697495b4ce7fa50d732c8616, 2022-06-07T16:38:43-04:00, MartinTheDude, Create changer.txt
-,Commit_ID, Date, Author, Subject 
-,baf227f5d7ea5e2043a10b8c0a948f93bcbead2b, 2022-06-07T20:36:09+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,efc1beff20d25b71fb0f5aa7dc0e6b0c48d9b357, 2022-06-07T16:35:58-04:00, MartinTheDude, testing
-,Commit_ID, Date, Author, Subject 
-,2ad5e474c5a603cc48f9fddd25fb47d4686544ce, 2022-06-07T16:32:37-04:00, MartinTheDude, testing cloud
-,Commit_ID, Date, Author, Subject 
-,2370c0a11f1c25f744db7ec522cf69733af2cd85, 2022-06-07T16:23:41-04:00, MartinTheDude, del
-,Commit_ID, Date, Author, Subject 
-,95b36ca21af10c31398db8a4d7cf77c51052392b, 2022-06-07T16:21:30-04:00, MartinTheDude, try2
-,Commit_ID, Date, Author, Subject 
-,c894792a73e77d15239744b38ab7219a814e0ffe, 2022-06-07T16:20:27-04:00, MartinTheDude, added
-,Commit_ID, Date, Author, Subject 
-,7352b9d3cc12de1f8e2dca41b159c88254752256, 2022-06-07T16:18:35-04:00, MartinTheDude, Opening New Workflow
-,Commit_ID, Date, Author, Subject 
-,ff900edaae0e3acb5912b528af3d4465d28a37fc, 2022-06-07T16:13:16-04:00, MartinTheDude, change headers
-,Commit_ID, Date, Author, Subject 
-,69022cb089205d1a657246c5cc6df9dc804559f0, 2022-06-07T16:09:09-04:00, MartinTheDude, Update commits.csv
-,Commit_ID, Date, Author, Subject 
-,03bbd0588a03d0e2dd82eb4691fed4abf8227792, 2022-06-07T16:02:41-04:00, MartinTheDude, testing auto
-,Commit_ID, Date, Author, Subject 
-,51e2d8748c3f2b69db6e94c163ba523ae820cadd, 2022-06-07T15:21:53-04:00, MartinTheDude, change
-,Commit_ID, Date, Author, Subject 
-,16fd27d20361be845e274f0fd488b47dab4c4f4d, 2022-06-07T13:43:21-04:00, MartinTheDude, revert
-,Commit_ID, Date, Author, Subject 
-,0147d9331e230d34b43570c2ba600440ca61d652, 2022-06-07T13:32:26-04:00, MartinTheDude, Update commits.csv
-,Commit_ID, Date, Author, Subject 
-,038a4bb0f21d805072c96eb57c1ffd6527db79ab, 2022-06-07T13:31:47-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw
-,Commit_ID, Date, Author, Subject 
-,f18dfc971f69fec96dad4f5d5825d6f950e2d4f7, 2022-06-07T13:31:31-04:00, MartinTheDude, Update commits.csv
-,Commit_ID, Date, Author, Subject 
-,7e9d87e4d3259d184e91a9e932d8f3ddcbad72d8, 2022-06-07T13:30:36-04:00, MartinTheDude, change to fit
-,Commit_ID, Date, Author, Subject 
-,61d0e646b681ed4952fdd1d01ebc1dfd30188bdd, 2022-06-07T00:48:30+00:00, GitHub Action, data/octokit.csv updated
-,Commit_ID, Date, Author, Subject 
-,8d125a17f5e5ec5e25ec3dbede4b77610cc1c680, 2022-06-06T19:18:55-04:00, MartinTheDude, Create commits.csv
-,Commit_ID, Date, Author, Subject 
-,bb66a5ea4db90b3e0018fc12290d5f16af87a075, 2022-06-06T19:17:17-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw
-,Commit_ID, Date, Author, Subject 
-,27dbc1b6044cb50981bd42ad9e9e69a118bb3527, 2022-06-06T19:17:14-04:00, MartinTheDude, testing
-,Commit_ID, Date, Author, Subject 
-,46c61298aa7bc412129477c969cf005844c1ec66, 2022-06-06T12:36:11-04:00, MartinTheDude, creating workflow
-,Commit_ID, Date, Author, Subject 
-,1cb16e49465c2a43d3ff6bb8ffa8264cff313427, 2022-05-24T14:32:24-04:00, MartinTheDude, meeting
-,Commit_ID, Date, Author, Subject 
-,448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19T12:32:22-04:00, MartinTheDude, lets go
-,Commit_ID, Date, Author, Subject 
-,d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19T11:55:46-04:00, MartinTheDude, ?
-,Commit_ID, Date, Author, Subject 
-,152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19T11:54:08-04:00, MartinTheDude, Create MotorExampleXML.xml
-,Commit_ID, Date, Author, Subject 
-,e7a7e362d8210863f5b7247d876c1deab21c3a73, 2022-05-19T11:52:42-04:00, MartinTheDude, Create MotorExample.mdxml
-,Commit_ID, Date, Author, Subject 
-,6a3946a4cbc18ff1fab6bd4cb56802a9e6315979, 2022-05-19T11:51:00-04:00, MartinTheDude, Create MotorExample.mdzip
-,Commit_ID, Date, Author, Subject 
-,48c2db4049371e6533f55e049d754856807e2190, 2022-05-18T18:33:56-04:00, MartinTheDude, testing testing 123
+0ed3393f683db6a5f2152ec9db0220bbf334cd5d, 2022-06-08T13:15:17-04:00, MartinTheDude, two part
+e403b7f93da2b996b76da618a1047bfbe893e483, 2022-06-08T13:10:11-04:00, MartinTheDude, test
+49b202eb3f0e3eeb1f07ee38941bb258fa4ba6f6, 2022-06-08T16:53:27+00:00, GitHub Action, data/octokit.csv updated
+e029be2865d1a084fd75e0a3956c835d0fa17dd4, 2022-06-08T12:53:17-04:00, MartinTheDude, revert
+defa05b659578a799c921211ed81a25c2c2d0e56, 2022-06-08T12:51:27-04:00, MartinTheDude, One line
+8e32cbb72c3c5d89b40ad176896cef8a5bcccdf3, 2022-06-08T16:49:30+00:00, GitHub Action, data/octokit.csv updated
+ea20c1e18ba1b284a8cd07568e422cafe4558b90, 2022-06-08T12:49:19-04:00, MartinTheDude, test
+c99ab9b508f15f4016a3ed2575fd16aa5cef64bf, 2022-06-08T16:48:44+00:00, GitHub Action, data/octokit.csv updated
+caa3f1ac4fd6c39b72f5b60ad4ea32ee609e092c, 2022-06-08T12:48:31-04:00, MartinTheDude, full header test
+2e9a0547c8b37f47d70456cb1dd0b39947516f17, 2022-06-08T16:46:38+00:00, GitHub Action, data/octokit.csv updated
+70fe02a47b9a28be8b9fc768b63d1ab57a47ce2f, 2022-06-08T12:46:26-04:00, MartinTheDude, test
+42c5da7b8c24336a44f0a1867b9cdffc771d6554, 2022-06-08T12:45:26-04:00, MartinTheDude, testing headers
+9296f7706f106d7559b54ffade4a9af293860295, 2022-06-08T16:42:24+00:00, GitHub Action, data/octokit.csv updated
+b9e805f2684b262b18144bfc38536741ba8ea3d8, 2022-06-08T12:42:14-04:00, MartinTheDude, headertest 4
+884fb0f03ed71d720907b7a3639f32850ed97438, 2022-06-08T16:40:37+00:00, GitHub Action, data/octokit.csv updated
+3c2419f737eec78a2309d898cac06f298fd3ebd7, 2022-06-08T12:40:25-04:00, MartinTheDude, test blank
+00db5ea60e11b468ceff164e1b57a63a4d95ad92, 2022-06-08T16:38:22+00:00, GitHub Action, data/octokit.csv updated
+806c19f5cc71423b54dc169bc7fdf9031a4eae79, 2022-06-08T12:38:12-04:00, MartinTheDude, revert
+af9afb5ac2f8abf462d2f33775056366896faeda, 2022-06-08T16:36:24+00:00, GitHub Action, data/octokit.csv updated
+ba9f10d8637737194498d09a97f1228f134cf0a8, 2022-06-08T12:36:12-04:00, MartinTheDude, del first column
+ad0b63eec9fe571ff795101694bdf5beba0141a1, 2022-06-08T16:35:19+00:00, GitHub Action, data/octokit.csv updated
+4151cf3bf11626b8d63391d4d22c03c57509ceaf, 2022-06-08T12:35:07-04:00, MartinTheDude, test
+0478bcc34df434e153c4611861701dce98ee6f4a, 2022-06-08T16:34:16+00:00, GitHub Action, data/octokit.csv updated
+a62040ab7936065e1d65d0432b2db06a59c84dd9, 2022-06-08T12:33:51-04:00, MartinTheDude, vert test 2
+04cb4224d13b950b22b4870869bf97d5d96fc8f1, 2022-06-08T16:32:41+00:00, GitHub Action, data/octokit.csv updated
+3228fdf9a946aa81e30898c79ef9cc9f6e032d2e, 2022-06-08T12:32:28-04:00, MartinTheDude, captiloize
+4de9773984004215ec76004000dc2c0c8f6d3805, 2022-06-08T16:31:07+00:00, GitHub Action, data/octokit.csv updated
+bd6757c56dba9525ab532d4350e152efd114c8af, 2022-06-08T12:30:55-04:00, MartinTheDude, roll back
+5d4c0e1c1dc21bdb36a5c7fe7678d65920a27fd6, 2022-06-08T16:29:22+00:00, GitHub Action, data/octokit.csv updated
+a5e5aca228e93899ec5451eacc3cb3df24679868, 2022-06-08T12:29:11-04:00, MartinTheDude, getting back to square 1
+08c6ad704cb38c7ce213fc130ab42e217b75453a, 2022-06-08T16:25:55+00:00, GitHub Action, data/octokit.csv updated
+b57254c1ab5cf00ce96106bab11bb5d67a459552, 2022-06-08T12:25:44-04:00, MartinTheDude, revert
+a66c60d7abb40efd4bbc901773c264de47db5c9a, 2022-06-08T16:24:47+00:00, GitHub Action, data/octokit.csv updated
+8eb0af7957a936a71134d5db2cfc28a5a5f82f92, 2022-06-08T12:24:36-04:00, MartinTheDude, Getting Data vert test
+d4ed992d1d7465c893b532812804cb785e4c6dea, 2022-06-08T16:21:09+00:00, GitHub Action, data/octokit.csv updated
+ec04bd6f4a5d9e46bf90ad8d3b0918dd7e901a81, 2022-06-08T12:20:57-04:00, MartinTheDude, header attempt
+58694a298b6630c007c821067a9fdf55bc8e49cd, 2022-06-08T16:18:30+00:00, GitHub Action, data/octokit.csv updated
+46e40025be79288b5b18fcfae4c1f8fccb8baa9f, 2022-06-08T12:18:19-04:00, MartinTheDude, fixed
+0d237201a8866187cbaaea27704b0bb4a3e31dd0, 2022-06-08T12:17:29-04:00, MartinTheDude, full history
+d505d84cc933688e9b1b043a22202ad95d14f4f3, 2022-06-08T16:12:07+00:00, GitHub Action, data/octokit.csv updated
+d3099150116e04730974c1ad1adfa9312b63f09b, 2022-06-08T12:11:51-04:00, MartinTheDude, Update commitLogOnPush.yml
+17d73b1b87142acdb4c956910ef377b9afe325fb, 2022-06-08T12:11:26-04:00, MartinTheDude, Update octokit.csv
+37290de654668b6f2e77f5d185922964a1186466, 2022-06-08T16:08:30+00:00, GitHub Action, data/octokit.csv updated
+c967547189d4af40246b5656d3c28d70a7263205, 2022-06-08T12:08:18-04:00, MartinTheDude, header test
+52c2ac07f43b4915e4646d44156deaf586d79868, 2022-06-08T16:07:00+00:00, GitHub Action, data/octokit.csv updated
+a3dcfdc38b5e16e8749b3c153fd4c01239355f32, 2022-06-08T12:06:42-04:00, MartinTheDude, quotestest
+9cc088d271d4990a2c1a3bbd3056f0013b04daa0, 2022-06-07T21:41:59+00:00, GitHub Action, data/octokit.csv updated
+5ad61a0a12f55608959d8fd266c9751b6184d3cf, 2022-06-07T17:41:43-04:00, MartinTheDude, end today
+bf7fbed90d033e9168dc9e43df8b49f387231e5e, 2022-06-07T21:26:33+00:00, GitHub Action, data/octokit.csv updated
+053957c703356183478553032f3d4ff8c85c7a67, 2022-06-07T17:26:23-04:00, MartinTheDude, seeing
+9b2fc8716d727e00698ba37ce74fc72f19f7bcff, 2022-06-07T21:24:23+00:00, GitHub Action, data/octokit.csv updated
+fcfffd321e77ec5ebd7f29ef2fa4b6f505303269, 2022-06-07T17:24:10-04:00, MartinTheDude, back
+7074a126f503d1c39cc44d2540f590a3ad187228, 2022-06-07T17:22:30-04:00, MartinTheDude, test
+5028624e3399eb90219c1ef47f6740e3437d6060, 2022-06-07T21:20:30+00:00, GitHub Action, data/octokit.csv updated
+6dd7e43fbd8956ee31ea728d56f8559d917c13b6, 2022-06-07T17:20:19-04:00, MartinTheDude, revert
+f44c28932d2d436032e16d25d3fe6da6b2aaf420, 2022-06-07T17:19:07-04:00, MartinTheDude, revert
+4dfa2144a986c3300f7a023196684bf02b495230, 2022-06-07T16:53:35-04:00, MartinTheDude, basic
+36f9a29f951928dd83b9db5dfc2a71d8df3a4b2f, 2022-06-07T16:52:55-04:00, MartinTheDude, basic
+6415e5f8b1b43e2f73ebfc8455afa111dc35fb35, 2022-06-07T16:52:19-04:00, MartinTheDude, test format
+64ee81893a204565b0147d6461f9706c4198172b, 2022-06-07T20:38:55+00:00, GitHub Action, data/octokit.csv updated
+ca8275dca9ea14c7697495b4ce7fa50d732c8616, 2022-06-07T16:38:43-04:00, MartinTheDude, Create changer.txt
+baf227f5d7ea5e2043a10b8c0a948f93bcbead2b, 2022-06-07T20:36:09+00:00, GitHub Action, data/octokit.csv updated
+efc1beff20d25b71fb0f5aa7dc0e6b0c48d9b357, 2022-06-07T16:35:58-04:00, MartinTheDude, testing
+2ad5e474c5a603cc48f9fddd25fb47d4686544ce, 2022-06-07T16:32:37-04:00, MartinTheDude, testing cloud
+2370c0a11f1c25f744db7ec522cf69733af2cd85, 2022-06-07T16:23:41-04:00, MartinTheDude, del
+95b36ca21af10c31398db8a4d7cf77c51052392b, 2022-06-07T16:21:30-04:00, MartinTheDude, try2
+c894792a73e77d15239744b38ab7219a814e0ffe, 2022-06-07T16:20:27-04:00, MartinTheDude, added
+7352b9d3cc12de1f8e2dca41b159c88254752256, 2022-06-07T16:18:35-04:00, MartinTheDude, Opening New Workflow
+ff900edaae0e3acb5912b528af3d4465d28a37fc, 2022-06-07T16:13:16-04:00, MartinTheDude, change headers
+69022cb089205d1a657246c5cc6df9dc804559f0, 2022-06-07T16:09:09-04:00, MartinTheDude, Update commits.csv
+03bbd0588a03d0e2dd82eb4691fed4abf8227792, 2022-06-07T16:02:41-04:00, MartinTheDude, testing auto
+51e2d8748c3f2b69db6e94c163ba523ae820cadd, 2022-06-07T15:21:53-04:00, MartinTheDude, change
+16fd27d20361be845e274f0fd488b47dab4c4f4d, 2022-06-07T13:43:21-04:00, MartinTheDude, revert
+0147d9331e230d34b43570c2ba600440ca61d652, 2022-06-07T13:32:26-04:00, MartinTheDude, Update commits.csv
+038a4bb0f21d805072c96eb57c1ffd6527db79ab, 2022-06-07T13:31:47-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw
+f18dfc971f69fec96dad4f5d5825d6f950e2d4f7, 2022-06-07T13:31:31-04:00, MartinTheDude, Update commits.csv
+7e9d87e4d3259d184e91a9e932d8f3ddcbad72d8, 2022-06-07T13:30:36-04:00, MartinTheDude, change to fit
+61d0e646b681ed4952fdd1d01ebc1dfd30188bdd, 2022-06-07T00:48:30+00:00, GitHub Action, data/octokit.csv updated
+8d125a17f5e5ec5e25ec3dbede4b77610cc1c680, 2022-06-06T19:18:55-04:00, MartinTheDude, Create commits.csv
+bb66a5ea4db90b3e0018fc12290d5f16af87a075, 2022-06-06T19:17:17-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw
+27dbc1b6044cb50981bd42ad9e9e69a118bb3527, 2022-06-06T19:17:14-04:00, MartinTheDude, testing
+46c61298aa7bc412129477c969cf005844c1ec66, 2022-06-06T12:36:11-04:00, MartinTheDude, creating workflow
+1cb16e49465c2a43d3ff6bb8ffa8264cff313427, 2022-05-24T14:32:24-04:00, MartinTheDude, meeting
+448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19T12:32:22-04:00, MartinTheDude, lets go
+d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19T11:55:46-04:00, MartinTheDude, ?
+152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19T11:54:08-04:00, MartinTheDude, Create MotorExampleXML.xml
+e7a7e362d8210863f5b7247d876c1deab21c3a73, 2022-05-19T11:52:42-04:00, MartinTheDude, Create MotorExample.mdxml
+6a3946a4cbc18ff1fab6bd4cb56802a9e6315979, 2022-05-19T11:51:00-04:00, MartinTheDude, Create MotorExample.mdzip
+48c2db4049371e6533f55e049d754856807e2190, 2022-05-18T18:33:56-04:00, MartinTheDude, testing testing 123
