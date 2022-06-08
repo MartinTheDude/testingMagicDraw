@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: git log --pretty=format:%cI,%h,%an,%ae,%s > data/octokit.csv
+    - run: git log --pretty="format:%cI,%h,%an,%ae,%s" > data/octokit.csv
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
     - run: git add data
