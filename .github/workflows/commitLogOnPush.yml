@@ -36,7 +36,7 @@ jobs:
           uses: juliangruber/read-file-action@v1
           with:
             path: data/ockotkit.csv
-        - uses: petems/csv-to-md-action@master
+        - uses: petems/csv-to-md-table-action@master
           id: csv-table-output
           with:
             csvinput: |
