@@ -49,6 +49,8 @@ jobs:
             repo-token: ${{ secrets.GITHUB_TOKEN }}
             repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
             allow-repeats: true
+        - run: git config --local user.email "action@github.com"
+        - run: git config --local user.name "GitHub Action"
         - run: git add data
         - run: git commit -m "data/octokit.csv updated"
         - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
