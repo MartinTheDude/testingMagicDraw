@@ -1,6 +1,9 @@
 function formatWizard() 
 
-table = readtable('ocktokit.csv');
+filename = 'ocktokit.csv'
 
-fprintf(table);
+commits = csvread('ocktokit.csv')
+
+fprintf(commits);
+
 end
