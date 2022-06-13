@@ -1,7 +1,0 @@
-name: Update data/octokit-stats.csv
-on:
-  schedule:
-    # https://crontab.guru/every-day
-    - cron: "0 0 * * *"
-
-
