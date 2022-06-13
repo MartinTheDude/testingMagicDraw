@@ -1,9 +1,13 @@
 function formatWizard() 
 
-filename = 'ocktokit.csv'
+filename = 'ocktokit.csv';
 
-commits = csvread('ocktokit.csv')
+commits = detectImportOptions('ocktokit.csv');
 
-fprintf(commits);
+preview("ocktokit.csv", commits);
+
+
+
+
 
 end
