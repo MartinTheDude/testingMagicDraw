@@ -1,6 +1,6 @@
 function formatWizard() 
 
-%table = readtable('ocktokit.csv')
+table = readtable('ocktokit.csv')
 
 
 
