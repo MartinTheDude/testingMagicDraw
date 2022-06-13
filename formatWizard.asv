@@ -1,0 +1,9 @@
+function formatWizard() 
+
+dirFiles = dir;
+fileNames = {dirFiles.name};
+fileNames = fileNames(:, 3:end);
+
+if isempty(fileNames)
+
+end
