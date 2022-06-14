@@ -1,4 +1,11 @@
 Commit_ID,Time/Date,Author,Subject
+190705541150aca84a2190ae1e27bedff0e75919,2022-06-14T11:07:08-04:00,MartinTheDude,csved
+19828a1126bbb0cd12c892cf8ea85e784c07b8f7,2022-06-14T15:06:51+00:00,GitHub Action,data/octokit.csv updated
+d0cf1eda3a956f4d9740ac5bb517a5f1cf08b994,2022-06-14T11:06:40-04:00,MartinTheDude,This is where formatWizard output locally
+3448aa12db72756557850ba467b0bfd638c8d27a,2022-06-14T15:03:51+00:00,GitHub Action,data/commits updated with format
+d933cd7425016a6f34e5ba81e8aec7bc1b08751e,2022-06-14T15:02:09+00:00,GitHub Action,data/octokit.csv updated
+5a2c95c65c997c003ce153d9a220947912b819da,2022-06-14T11:01:56-04:00,MartinTheDude,git pull to have lates
+be9f5c4d00692fdb72cb6d79d4f0babe7603e485,2022-06-14T14:57:44+00:00,GitHub Action,data/octokit.csv updated
 bbfcc4c0ec1bcdb8748c2696894723bb97c00dba,2022-06-14T10:57:31-04:00,MartinTheDude,get latest all the time
 137b7c1bb088668abe47c5ed9bf0eaae3aefce81,2022-06-14T14:53:37+00:00,GitHub Action,commits updated
 fa051da4bae422248720bdce6fe8a120daa49631,2022-06-14T10:52:50-04:00,MartinTheDude,try
