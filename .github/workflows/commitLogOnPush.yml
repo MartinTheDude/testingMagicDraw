@@ -22,6 +22,7 @@ jobs:
     needs: populate
     runs-on: ubuntu-latest
     steps:
+      - run: git pull 
       - name: Check out repository
         uses: actions/checkout@v2
       - name: Set up MATLAB
