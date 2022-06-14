@@ -34,7 +34,7 @@ jobs:
           command: addpath('data'), formatWizard 
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
-      - run: git add data
+      - run: git add 'commits.csv'
       - run: git commit -m "data/commits updated with format"
       - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
         env:
