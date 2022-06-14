@@ -14,20 +14,21 @@ jobs:
     - run: git config --local user.name "GitHub Action"
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
-    - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
+    #- run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
   format:
-    name: Check out repository
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
-      - name: Run script
+      - name: Set up MATLAB
+        uses: matlab-actions/setup-matlab@v1
+      - name: Run commands
         uses: matlab-actions/run-command@v1
         with:
-          command: data/formatWizard
+          command: addpath('data'), formatWizard 
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
       - run: git add data
