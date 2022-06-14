@@ -14,7 +14,7 @@ jobs:
     - run: git config --local user.name "GitHub Action"
     - run: git add data
     - run: git commit -m "data/octokit.csv updated"
-    - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
+    #- run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -22,7 +22,6 @@ jobs:
     needs: populate
     runs-on: ubuntu-latest
     steps:
-      - run: git pull 
       - name: Check out repository
         uses: actions/checkout@v2
       - name: Set up MATLAB
@@ -30,8 +29,6 @@ jobs:
       - name: Run commands
         uses: matlab-actions/run-command@v1
         with:
-          octokit.csv: data/octokit.csv
-          commits.csv: data/commits.csv
           command: addpath('data'), formatWizard 
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
