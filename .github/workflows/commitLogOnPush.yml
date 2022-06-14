@@ -13,15 +13,13 @@ jobs:
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
     - run: git add data
-    - run: git commit -m "data/octokit.csv updated"
-
     - uses: actions/checkout@v2
     - name: Set up MATLAB
       uses: matlab-actions/setup-matlab@v1
       with:
           command: addpath('data'), formatWizard 
     - run: git add 'commits.csv'
-    - run: git commit -m "data/commits updated with format"
+    - run: git commit -m "commits updated"
     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
