@@ -9,14 +9,6 @@ jobs:
       with:
            ref: ${{ github.event.pull_request.head.sah }}
            fetch-depth: 0
-    - uses: gr2m/write-csv-file-action@v1.x
-      with:
-          path: data/octokit.csv
-          columns: open issues,closed issues,open pull requests,closed pull requests
-          "open issues": "Commit_ID"
-          "closed issues": "Date/Time"
-          "open pull requests": "Author"
-          "closed pull requests": "Subject"
     - run: git log --pretty="%H, %cI, %an, %s" > data/octokit.csv
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
