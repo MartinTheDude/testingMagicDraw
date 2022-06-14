@@ -13,7 +13,6 @@ jobs:
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
     - run: git add data
-    - uses: actions/checkout@v2
     - name: Set up MATLAB
       uses: matlab-actions/setup-matlab@v1
       with:
