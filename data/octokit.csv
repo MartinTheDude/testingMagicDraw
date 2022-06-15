@@ -137,8 +137,6 @@ MotorExampleXML.xml, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19 11:55:
 MotorExampleXML.xml, 152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19 11:54:08 -0400, MartinTheDude, MartinTheDude, Create MotorExampleXML.xml
 MotorExampleXML.xml.bak, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19 12:32:22 -0400, MartinTheDude, MartinTheDude, lets go
 MotorExampleXML.xml.bak, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19 11:55:46 -0400, MartinTheDude, MartinTheDude, ?
-README.md, 61b34a1581277d441a8791ba4fe5594dd7adbaa7, 2022-06-15 12:29:49 -0400, MartinTheDude, GitHub, Update README.md
-README.md, 3b0f766b087a34c69b77d5fad6758f7b8a039e1e, 2022-06-15 12:27:34 -0400, MartinTheDude, GitHub, Update README.md
 README.md, 84b87ad5605381b0b50188f96bc242fbc9909fa0, 2022-06-15 12:26:11 -0400, MartinTheDude, GitHub, Update README.md
 README.md, 60025004f3dadb88d22e8e2f09e67d505d27f95a, 2022-06-15 12:25:12 -0400, MartinTheDude, GitHub, Update README.md
 README.md, 23cf36e13ba283bc41f144b7ac4299835e9ef66e, 2022-06-15 12:23:53 -0400, MartinTheDude, GitHub, testing images
@@ -167,7 +165,6 @@ TestingMD.xml, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19 12:32:22 -04
 TestingMD.xml.bak, 1cb16e49465c2a43d3ff6bb8ffa8264cff313427, 2022-05-24 14:32:24 -0400, MartinTheDude, MartinTheDude, meeting
 TestingMD.xml.bak, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19 12:32:22 -0400, MartinTheDude, MartinTheDude, lets go
 TestingMDXML.xml, 1cb16e49465c2a43d3ff6bb8ffa8264cff313427, 2022-05-24 14:32:24 -0400, MartinTheDude, MartinTheDude, meeting
-commits.csv, 84a20e32cdde3c96398dfec60a43e459bbf294f0, 2022-06-15 16:29:35 +0000, GitHub Action, GitHub Action, data/commits updated with format
 commits.csv, 509258b40c1d0665854cb6cf840db411805fd4f0, 2022-06-15 16:08:32 +0000, GitHub Action, GitHub Action, data/commits updated with format
 commits.csv, a2e4356971e9870064441e67799100366c8035f6, 2022-06-15 16:04:03 +0000, GitHub Action, GitHub Action, data/commits updated with format
 commits.csv, 1e2805b2a627c4f72434c5b9c5c1bb96ccc05b62, 2022-06-15 15:32:53 +0000, GitHub Action, GitHub Action, data/commits updated with format
@@ -197,9 +194,6 @@ data/formatWizard.m, 9cf45abb9ded391fa531baa338a36a651c535734, 2022-06-13 21:31:
 data/formatWizard.m, 89f2a2eaf9871cc916503182c5891713074fe2a1, 2022-06-13 11:57:38 -0400, MartinTheDude, MartinTheDude, Delete writeToCSV.yml
 data/formatWizard.m, 0b04f25043fb1b209bd033c37d6dc0e24c7b752d, 2022-06-13 11:49:53 -0400, MartinTheDude, MartinTheDude, fulltest
 data/formatWizard.m, 8237fa3225474e355db12248b83f5c1368dbf774, 2022-06-13 10:53:29 -0400, MartinTheDude, MartinTheDude, putting formatWizard in right Folder
-data/octokit.csv, 84a20e32cdde3c96398dfec60a43e459bbf294f0, 2022-06-15 16:29:35 +0000, GitHub Action, GitHub Action, data/commits updated with format
-data/octokit.csv, 394ea229107c05f59f892a4f133def7638c9754b, 2022-06-15 16:27:44 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
-data/octokit.csv, 39d43b2229ecdcd1b4776196f3ec80c7d8b86ea3, 2022-06-15 16:26:25 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, da4ccd009be38b10ca6f149204ba9675e83677bf, 2022-06-15 16:25:23 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, 15c49dba429e08546004dcad1119db785cf9efcb, 2022-06-15 16:24:04 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, ef181226538cd4403da483274cd6edbee60a2a82, 2022-06-15 16:22:55 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
