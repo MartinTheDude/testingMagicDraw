@@ -1,0 +1,929 @@
+ test-format, a78e1f3995350624a6014a32fd78c1f242922e78, 2022-06-15T10:49:53-04:00, GitHub, test format, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, acfa282cf10bfc278df91edc5fb75c29fdce541f, 2022-06-15T14:48:14+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, f0a1ee096f53846c22baff5fb7ada077a8c00182, 2022-06-15T10:48:03-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, a5d8a0e48284250e3532aee2d1727f63b3381714, 2022-06-15T10:46:26-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, f839c9b15e87a5d383707ff6c09221af963d2d53, 2022-06-15T10:45:52-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 102b6d97e8a7a18c00c1bcfe8d7eb1b7031e178b, 2022-06-15T14:44:21+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, 72cc19cecae360d92804e3962be18e488be7751d, 2022-06-15T10:44:09-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 23b12f9f08933b57151a730bffdc1c995083ed85, 2022-06-15T14:42:10+00:00, GitHub Action, data/commits updated with format, 
+data/octokit.csv
+
+ data-octokit.csv-updated, c2bbf97f04e29b8bd6f9506aa4f8b4d7b2389733, 2022-06-15T14:40:24+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, b95704e517c7b9656edd0b09e5c2db78a78b5f77, 2022-06-15T10:40:13-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, 01f1c5198447338dcef5e16b3760d37c669da9f0, 2022-06-15T10:39:34-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ trying, 5ba8b2e7655b72c6596daac5c5084dfb1220f8c0, 2022-06-15T10:38:36-04:00, GitHub, trying, 
+.github/workflows/commitLogOnPush.yml
+
+ trying-enviroment, 23e998a104623e64d9b55f01ae6b0e5231cb2ced, 2022-06-15T10:36:26-04:00, GitHub, trying enviroment, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, 77403f48bd7d6ee4f8e80f82d580465b3ebe00e9, 2022-06-15T10:34:15-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 9046f1d04513bc9befda0c0037633d752c31da80, 2022-06-15T14:16:16+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 8a95bf8181a95a39fe3cc6f1f0df76f7c27c7b25, 2022-06-15T14:14:33+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 04b24c490c798faf21f5afd77a90c6ed23c1b1dd, 2022-06-15T10:14:21-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 83d90577a262fa1d24355eee02f01f4fd4a946cf, 2022-06-15T14:12:11+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, a9aa12f015f35da4bd5f3721ae20d5dec2b1a013, 2022-06-15T10:11:59-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, d4c058f8198f0d4dfe47defd190e5927fb8c48e4, 2022-06-15T10:11:02-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 4455c9c31c953ebb481bc4a4c6062250163d6e8b, 2022-06-15T14:10:59+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 1171cec3221107fffc24bbba4dc05ad33064d6bb, 2022-06-15T14:09:12+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-README.md, fefe00539f9958af55066aee117603b116bd04e0, 2022-06-15T10:08:57-04:00, GitHub, Update README.md, 
+README.md
+
+ data-octokit.csv-updated, 8f9b941e23366af0f2bdaa2bf290be4e2119a2f1, 2022-06-15T14:08:46+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ change-author-to-commiter, e679bed13a42455edd091cdd2e0f19e0dc17b8f9, 2022-06-15T10:08:35-04:00, GitHub, change author to commiter, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 5d16a6f06b7c427d4d45c303cdbafdd178562f21, 2022-06-15T13:59:38+00:00, GitHub Action, data/commits updated with format, 
+data/octokit.csv
+
+ data-octokit.csv-updated, 2b15f0ab20d15f11b9c03c2c66dd867e0d152f7b, 2022-06-15T13:57:52+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ try, 0f5a05654f2ae57fba2cae583888c6b23d9f9f86, 2022-06-15T09:57:39-04:00, GitHub, try, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, bbbde61d1b0b817c5f4da65e2db86a86db15890f, 2022-06-15T13:55:53+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 37614a8aba10eb85ee513cbc1a82d15fbabba2bf, 2022-06-15T13:54:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 572cb77334ca026ab51e964a597c0d4aaf993fc0, 2022-06-15T09:53:55-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 58a96c29aa87975496b78fbece3edd994a2125aa, 2022-06-15T13:52:48+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 0311554d4ad806461a0b5234684130bb75f2c6dd, 2022-06-15T09:52:36-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, d963ef3b171d336c1bba881e4a0a22ae9ca4222b, 2022-06-15T09:50:48-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, d5b3f88db4df49e88f86d4d36d9347a3ed519de7, 2022-06-15T13:49:33+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 280b6b0b548df0cb53d641370af656ab8c1e54d2, 2022-06-15T09:49:21-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, 90fa2607a7860668443cf6c277c8bfe9d437d51b, 2022-06-15T09:48:35-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 787c955e9b57971bff6fd0cef43ceed2155339f6, 2022-06-15T13:46:53+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, f1f4b43991fba4a9476e186bfbef61f5ea3f18bb, 2022-06-15T09:46:39-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, c6e9e844393bdef43e9602d89d54109fd8940c12, 2022-06-15T13:44:55+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, e776107307861ea8d45a9495aae81e68985d6930, 2022-06-15T09:44:42-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 7a9485d27fc331dbc7afa21b13f43f703c82efff, 2022-06-15T13:43:57+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 04ce8f081d117262d0e3981384df5022f23521da, 2022-06-15T09:43:45-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, a406cb260f2db0d96d6aa8a9da9821b4f3aaf29f, 2022-06-15T13:43:36+00:00, GitHub Action, data/commits updated with format, 
+data/octokit.csv
+
+ data-octokit.csv-updated, 70907b0441d53fdb1a62d8106ac2e07dbf7fc184, 2022-06-15T13:41:45+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 944ad5f2519f7159aebeec64877bb881eecc5153, 2022-06-15T09:41:33-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 519987f7516cc19e95881a1771132ca93d72d62b, 2022-06-15T13:40:50+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 3aaef235afa0b04e0de2be23cfc52b37bfd9fcd9, 2022-06-15T13:39:06+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, c5ade2c710a5dd187fae14870219993292c3c5c9, 2022-06-15T09:38:53-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, bea3459188ec85d420a54f637568057bd3fc6f92, 2022-06-15T13:37:22+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 505b1de59692bb197488cb9415786050dde2d8c5, 2022-06-15T09:37:10-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 8d9bc99a4344a097dc36c0258c795ea25a527d1c, 2022-06-15T13:36:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 0b6396dc98d6d704ba2edb3b0fea0645bd5e7bb9, 2022-06-15T09:36:17-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 203a519964792ccea1ae199a71131fd2b8087cc5, 2022-06-15T13:35:21+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ testing-first-step-out, 160cb3e011f42c2808326ceb71f6e40de5d6987c, 2022-06-15T09:35:10-04:00, GitHub, testing first step out, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, a0f2512d97e787c0595e104e1672976fbc8e3035, 2022-06-15T13:34:28+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, 8e6bf714094d37d27e07f520031df338983847de, 2022-06-15T09:34:15-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, cb56161bec196e7bbc0ca70959249fc0f763cc12, 2022-06-15T13:32:23+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-octokit.csv, 18af4eba62cc3810b9309df6d1f58093c094c9f5, 2022-06-15T09:32:10-04:00, MartinTheDude, Update octokit.csv, 
+data/octokit.csv
+
+ data-commits-updated-with-format, 921383d59cf4a3dee9d37b238b46bbc41b5595c6, 2022-06-15T13:31:05+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 79bd37b42bc9658c09ea5456a03c0158e3c127c0, 2022-06-15T13:29:14+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ testing, 64a93abf7bf0d4cdf4a2f0b5d776acd71f8ad028, 2022-06-15T09:28:58-04:00, MartinTheDude, testing, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+
+ data-octokit.csv-updated, 45acb3be78c0f3125e54b71e53ce357dd945314a, 2022-06-15T13:27:26+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, ebb7cd874878b942f9d8a7dd5ac8a0acd0f57c2a, 2022-06-15T09:27:15-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 946b43ccebe67c54167f17d66150d6c5bb1ceb9d, 2022-06-15T13:26:17+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 80ef1dc4befc6df3546efe544197f84dfecb6fcf, 2022-06-15T09:25:58-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, e14a70c8fd568962fdf658755c514de4e9177b0b, 2022-06-15T13:24:47+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 43615b75165a6311a6f7254e870b8d600392d3b7, 2022-06-15T09:24:32-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9f05bd458b0896150c32059e04f72208991b622c, 2022-06-15T13:22:58+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 6916110b3e7d99ac55fd940008fc58c2453ec051, 2022-06-15T09:22:46-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, efc692e63dffb07d7bf9e5ac503a2c90548fef52, 2022-06-15T13:22:08+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 2810898d795d92ce64a6f6dc251a8a49895c76e1, 2022-06-15T09:21:49-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 88a42a815351d8328bc8c69cf12a3935671094ec, 2022-06-15T13:19:42+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ trying-to-make-new-column, e6d96793f0153e8ca2f1e4294d96b941834d4178, 2022-06-15T09:19:30-04:00, GitHub, trying to make new column, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, 60aba9c27796ec48cdcfc03fd792efdcfcda015e, 2022-06-15T09:18:30-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 8965cb8170d598a5c5506480902a3aaa313dc001, 2022-06-15T13:16:43+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, 2ea9c9ad1d0de4d4243615da5d32a1520cf701f0, 2022-06-15T09:16:32-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ testing-name, d9b90bbe3c98ac22e88c916cfe4a02c68559d166, 2022-06-15T09:15:28-04:00, GitHub, testing name, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-commitLogOnPush.yml, 72ade42142a9dd49bb2d3ced02b6b52e3d0333cc, 2022-06-15T09:02:20-04:00, GitHub, Update commitLogOnPush.yml, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-formatWizard.m, eabde1f1a32de89b4a9a3d7f91759c67fd598466, 2022-06-15T09:01:39-04:00, GitHub, Update formatWizard.m, 
+data/formatWizard.m
+
+ test-2, fc916f6af8e83da7d47f9407235a47610734eac5, 2022-06-15T09:01:13-04:00, GitHub, test 2, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, 0754937f3969003924ac8fb3379ad8321dbc0f57, 2022-06-14T19:55:44+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, d64cb889abe7defcdccf50f769e1526ab3940a56, 2022-06-14T19:53:55+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commits.csv, 2462518214ebc6fe62d336724c89216dc1011344, 2022-06-14T15:53:28-04:00, MartinTheDude, Update commits.csv, 
+commits.csv
+
+ data-commits-updated-with-format, aebfa94a4c7e502263cb727bc427f6fed1e7a9bb, 2022-06-14T19:47:28+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 1f28979476551e814082624436b82c04058f8f3f, 2022-06-14T19:45:26+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ added-folder, 29d62fef7a30c35636b05f2ebcb6edeb5cc79658, 2022-06-14T15:45:11-04:00, MartinTheDude, added folder, 
+TestFolder/changer.txt
+
+ data-octokit.csv-updated, 485f65fc7740a91e21ef7b89e0deb00d891975e2, 2022-06-14T19:43:50+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-changer.txt, f014fac42295ec2fea7b8aaacf51533fc2fecb67, 2022-06-14T15:43:38-04:00, GitHub, Update changer.txt, 
+changer.txt
+
+ data-commits-updated-with-format, 0d557953a4bbd54d41c720508ff9d067995796ed, 2022-06-14T15:10:31+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, 3321a40d2f0b2d641d32b402708fcb4625a84a93, 2022-06-14T15:08:43+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-README.md, 9e6ad9e7426a72b78b79e5c1b437929864d60927, 2022-06-14T11:08:28-04:00, GitHub, Update README.md, 
+README.md
+
+ data-octokit.csv-updated, 70117b4bcd0d4eebfb81514354e0e6f7a7308cbb, 2022-06-14T15:07:20+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ csved, 190705541150aca84a2190ae1e27bedff0e75919, 2022-06-14T11:07:08-04:00, GitHub, csved, 
+data/commitsLocalOnly.csv
+
+ data-octokit.csv-updated, 19828a1126bbb0cd12c892cf8ea85e784c07b8f7, 2022-06-14T15:06:51+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ This-is-where-formatWizard-output-locally, d0cf1eda3a956f4d9740ac5bb517a5f1cf08b994, 2022-06-14T11:06:40-04:00, GitHub, This is where formatWizard output locally, 
+data/commitsLocalOnly
+
+ data-commits-updated-with-format, 3448aa12db72756557850ba467b0bfd638c8d27a, 2022-06-14T15:03:51+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+data/octokit.csv
+
+ data-octokit.csv-updated, d933cd7425016a6f34e5ba81e8aec7bc1b08751e, 2022-06-14T15:02:09+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ git-pull-to-have-lates, 5a2c95c65c997c003ce153d9a220947912b819da, 2022-06-14T11:01:56-04:00, GitHub, git pull to have lates, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, be9f5c4d00692fdb72cb6d79d4f0babe7603e485, 2022-06-14T14:57:44+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ get-latest-all-the-time, bbfcc4c0ec1bcdb8748c2696894723bb97c00dba, 2022-06-14T10:57:31-04:00, GitHub, get latest all the time, 
+.github/workflows/commitLogOnPush.yml
+
+ commits-updated, 137b7c1bb088668abe47c5ed9bf0eaae3aefce81, 2022-06-14T14:53:37+00:00, GitHub Action, commits updated, 
+data/octokit.csv
+
+ try, fa051da4bae422248720bdce6fe8a120daa49631, 2022-06-14T10:52:50-04:00, GitHub, try, 
+.github/workflows/commitLogOnPush.yml
+
+ try-2, afc3279f54197162040cbd51c6df046159df42d8, 2022-06-14T10:50:59-04:00, GitHub, try 2, 
+.github/workflows/commitLogOnPush.yml
+
+ all-in-one, d653d599c6384603cc18146060fb253a25ec8c7b, 2022-06-14T10:49:08-04:00, GitHub, all in one, 
+.github/workflows/commitLogOnPush.yml
+
+ data-commits-updated-with-format, a9564a395a379bb1c3ca0efa452d68d4fed636a0, 2022-06-14T14:41:47+00:00, GitHub Action, data/commits updated with format, 
+commits.csv
+
+ one-push, bf2ef305e79d85061ec7f467127d6d85b5a80bbe, 2022-06-14T10:40:02-04:00, GitHub, one push, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, a3af010435833e20143eac299b81c43f015387ce, 2022-06-14T14:38:16+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ pull-before, 618ecb60b1bcd897b14b94894e142210481104dd, 2022-06-14T10:38:04-04:00, GitHub, pull before, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 73d47c059cee25c41531544a7c42f06862532212, 2022-06-14T14:33:54+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, 175113652c5a1f6ac0deefcf315f10db404e257f, 2022-06-14T10:33:42-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, f5d1e6ea0a470415c4a41fff3a4a65d2b74995eb, 2022-06-14T14:30:23+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ delete-extra, 77fc53c10ee4a4c7451e9be73366d13c5560ead1, 2022-06-14T10:30:10-04:00, GitHub, delete extra, 
+formatWizard.m
+
+ data-octokit.csv-updated, 3e69a974799815c448811a08aae748bf15001b7c, 2022-06-14T14:27:08+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ trying-with-files, d03eb030ff07e3321ba16f3cdedebed531890ec8, 2022-06-14T10:26:56-04:00, GitHub, trying with files, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, ae15cd52b49b55102d5faba675f75506ead399c8, 2022-06-14T14:22:28+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ testing-needs, a363c15dd51356cebe867a30b0bc8e1a7cd8d9c9, 2022-06-14T10:22:17-04:00, GitHub, testing needs, 
+.github/workflows/commitLogOnPush.yml
+
+ Update-formatWizard.m, 2c1d3b63473c30d51bb81b687196c9b2c8044149, 2022-06-14T10:19:19-04:00, GitHub, Update formatWizard.m, 
+data/formatWizard.m
+
+ test2, dc62d020b97fe4f3715787ddb749c0ee85ce179e, 2022-06-14T10:12:36-04:00, GitHub, test2, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 3670162638d49d2a5ddb05625c21850d10f3483e, 2022-06-14T14:03:47+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ text-edit, e1e697d09f62b484b19837647aa4946d09b7c256, 2022-06-14T10:03:34-04:00, GitHub, text edit, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 96e1e424928dd44f64c7999591ead57ed2189811, 2022-06-14T14:03:13+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, f10a3bc38b68836a7468512c7dd1d044509eef8b, 2022-06-14T10:03:01-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 6d9a096d293f6790b13fc4db4a6482e2c50a6abb, 2022-06-14T01:36:33+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Deleted-Bad-Code, ce4da181ff09ec6a6bab8619102712540a293509, 2022-06-13T21:36:23-04:00, GitHub, Deleted Bad Code, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 6f37c479239e16e76d56b9267e1c1f76a9708ff1, 2022-06-14T01:35:39+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, ce0c97b102d99dce28775be3981a131bb39ecd34, 2022-06-13T21:35:27-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ done-for-the-day, 34f26b7dcf4ef9fd836389a5baab4174349b6678, 2022-06-13T21:35:22-04:00, MartinTheDude, done for the day, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+
+ data-octokit.csv-updated, 8be1d8bda26763ca7d424aa05a00e883944e42c2, 2022-06-14T01:34:09+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commits.csv, 0c0119fd5f2f8b74142d1228fee6114ac2150bfa, 2022-06-13T21:33:49-04:00, MartinTheDude, Update commits.csv, 
+data/commits.csv
+
+ data-octokit.csv-updated, f309e9eb24eefd7ae5e413a446a33b0e819db621, 2022-06-14T01:32:02+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 126f6d79930613d4d895c1c55d6cf4e58e93be23, 2022-06-13T21:31:49-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Commenting-my-code, 9cf45abb9ded391fa531baa338a36a651c535734, 2022-06-13T21:31:32-04:00, MartinTheDude, Commenting my code, 
+data/formatWizard.m
+
+ data-octokit.csv-updated, 7c2981177668fba69e61fc35e44baa8a58ff4bf9, 2022-06-13T15:59:08+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-octokit.csv, 16658c027004ff967b13d074bd78a64b7bece634, 2022-06-13T11:58:56-04:00, MartinTheDude, Update octokit.csv, 
+data/octokit.csv
+
+ data-octokit.csv-updated, 6a25c633717f201558ab3ec5b6d622e79be7a072, 2022-06-13T15:58:02+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 6470466739802a1ce8e939266bb1877a70533d20, 2022-06-13T11:57:46-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Delete-writeToCSV.yml, 89f2a2eaf9871cc916503182c5891713074fe2a1, 2022-06-13T11:57:38-04:00, MartinTheDude, Delete writeToCSV.yml, 
+.github/workflows/writeToCSV.yml
+data/formatWizard.m
+
+ data-octokit.csv-updated, 2b02c394bac9369ab5d45a5db81a5a826254c7a8, 2022-06-13T15:52:03+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Delete-writeToCSV.yml, aedebb2a40186eee23eac7b3a2adbdcf16655873, 2022-06-13T11:51:51-04:00, GitHub, Delete writeToCSV.yml, 
+.github/workflows/writeToCSV.yml
+
+ data-octokit.csv-updated, e4f1cd64ccab1334ab2b3d7b3a1ade3d7edf3f6b, 2022-06-13T15:51:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 355e75df9b71cf66fb43615a1d4b1e2fe9e7388a, 2022-06-13T11:50:56-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Delete-formatWizard.asv, 4fad213cfaee326d4241b7f1b195f27c43f28cf6, 2022-06-13T11:50:54-04:00, MartinTheDude, Delete formatWizard.asv, 
+data/formatWizard.asv
+
+ data-octokit.csv-updated, 4a45162413f8d21b6cd3a6b24d9d1d3f051266a4, 2022-06-13T15:50:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ fulltest, 0b04f25043fb1b209bd033c37d6dc0e24c7b752d, 2022-06-13T11:49:53-04:00, MartinTheDude, fulltest, 
+data/commits.csv
+data/formatWizard.asv
+data/formatWizard.m
+data/octokit.csv
+formatWizard.m
+
+ data-octokit.csv-updated, 05a94945002785664c920cb813a72b807b10fda5, 2022-06-13T14:56:32+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Delete-commits.csv, 804204c407af1fa086fcddc19556e14540f5e274, 2022-06-13T10:56:14-04:00, MartinTheDude, Delete commits.csv, 
+commits.csv
+
+ data-octokit.csv-updated, fb7d54101df4c059a74ca6bd04aafb86399f1f33, 2022-06-13T14:53:53+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 0bbc04c48e77065f0221e59fff91e604e0592354, 2022-06-13T10:53:38-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ putting-formatWizard-in-right-Folder, 8237fa3225474e355db12248b83f5c1368dbf774, 2022-06-13T10:53:29-04:00, MartinTheDude, putting formatWizard in right Folder, 
+data/formatWizard.asv
+data/formatWizard.m
+formatWizard.m
+
+ data-octokit.csv-updated, b34705bfaa96c37ad90cdddd39ef4902115b900a, 2022-06-13T14:40:46+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, c6de718b5d803f624c451e8fb2a92a505a878ee4, 2022-06-13T10:40:31-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Update-formatWizard.m, d5ae45fe9dd24c29500db23597e275eb94a64131, 2022-06-13T10:40:24-04:00, MartinTheDude, Update formatWizard.m, 
+formatWizard.m
+
+ data-octokit.csv-updated, bb523f1216dc128b14c8e5f60a15472e6eafc8e3, 2022-06-13T14:38:29+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-formatWizard.m, b4aef086956b1d2bd285836ffbd193e89c097564, 2022-06-13T10:38:04-04:00, MartinTheDude, Update formatWizard.m, 
+formatWizard.m
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, a5f760eec5d61eb144764fa0690852883b4f6b84, 2022-06-13T10:37:35-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Update-formatWizard.m, a8c9b2368b1e1d2c255a01e19fcafb6390d82f77, 2022-06-13T10:36:39-04:00, MartinTheDude, Update formatWizard.m, 
+formatWizard.m
+
+ testingMatlab, 36133f896bca1ba1e7a5b8dcdde595e8fd5b9f05, 2022-06-13T10:35:04-04:00, MartinTheDude, testingMatlab, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+formatWizard.asv
+formatWizard.m
+
+ data-octokit.csv-updated, 7b4f545021eb2a74828dd0fbc080886d5a346db2, 2022-06-13T13:44:27+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ MakingTables, 648d4e877e226f1fde44f953a24d5d5b6027fdef, 2022-06-13T09:44:10-04:00, MartinTheDude, MakingTables, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+
+ data-octokit.csv-updated, c03b2cde4a5096548418d9c505817b3ab42a2edd, 2022-06-10T12:46:23+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, 84e89901652ab01e3d573311770aff9a235a1e8c, 2022-06-10T08:46:11-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ test, 031d0a1e56e373905e06640705bd3a65d4ea6be4, 2022-06-10T08:44:03-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ stop-wrkte, 3d2a206a27301c83c82a1969a48afd5edd3b5aa4, 2022-06-10T08:42:30-04:00, GitHub, stop wrkte, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 0b0db044aaf24a940ce58b529b1f3534a4f81f4e, 2022-06-10T12:40:52+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Create-Readme, 5d9ae84664fe21f5ced82b84305ca9fa87da0e4c, 2022-06-10T08:40:42-04:00, GitHub, Create Readme, 
+README.md
+
+ data-octokit.csv-updated, c54841e2bc9124823fb5bcf117459a05eb1eeae1, 2022-06-10T12:40:35+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Deleted-Trash, 49d1a75e3e9f6f57b53a64f82490d5f110ab6175, 2022-06-10T08:40:20-04:00, MartinTheDude, Deleted Trash, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+
+ data-octokit.csv-updated, 9dbfe5f3866be25da9a1dc8d893f87577b54e01b, 2022-06-10T12:38:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 74ab0e845c81bbadbd495d87cbb237b6edfe5bdc, 2022-06-10T08:37:52-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Added-Trash, 4f755e59849c5b5e07d49e3195858edda6bc8534, 2022-06-10T08:37:50-04:00, MartinTheDude, Added Trash, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
+
+ data-octokit.csv-updated, e257c7f242e9f3481ab03026a4a798cbf3981529, 2022-06-09T21:11:31+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, a5fb12561cc40ff476f1adba53274daa90964e40, 2022-06-09T17:11:21-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, c1a1124d14fa305fc0e2a27bece652853966399a, 2022-06-09T21:10:11+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, bf7b8c10a2d89906658b97e15ce9db4906ed60c2, 2022-06-09T17:09:58-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 2b5974aee455ae6e21e4dc0cd26070a2a26a9a4e, 2022-06-09T21:08:40+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, 0dcfcbea41abd54c7291f5bf4d66df13eda60fae, 2022-06-09T17:08:27-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, a8e58bc482134aea68339556f77e1c9c09825079, 2022-06-09T21:06:48+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, aef4b375eae697064fe54190d3702bcf0d372b65, 2022-06-09T17:06:32-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, f4d1d93c2e7e78f0dd5272d433fa014b4e455406, 2022-06-09T21:04:38+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ spelling, 91bd710fea3b33e205140a667ab2703b08eb6e8d, 2022-06-09T17:04:26-04:00, GitHub, spelling, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 0e61dfc7fc37ab72ba79a8747cb498477514ffb2, 2022-06-09T21:03:21+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, c313f8152394b7299b806a22837d537040b05efb, 2022-06-09T17:03:09-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 2f5c489f9805ff035713539a9d913cc170ce19d4, 2022-06-09T21:00:24+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ testing-headers, 9d30a4b9cd95814e01020689bb2f1d7c1b79ee14, 2022-06-09T17:00:14-04:00, GitHub, testing headers, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, fe92811a351d11527c04e157dea1785d8ca2ca8e, 2022-06-09T20:57:57+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Delete-DataIntoTable, e4cf49c271b7dcb5282b7f34bdcdddd855c64085, 2022-06-09T16:57:47-04:00, GitHub, Delete DataIntoTable, 
+.github/workflows/DataIntoTable
+
+ data-octokit.csv-updated, 1d4b1d11c1a93c22cb02b148d32eafa98287640e, 2022-06-09T20:55:01+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Create-DataIntoTable, e3b2d2a080131be653c2835020deed840f475add, 2022-06-09T16:54:47-04:00, GitHub, Create DataIntoTable, 
+.github/workflows/DataIntoTable
+
+ data-octokit.csv-updated, b44a58a7760ddf701895c1ead00f7e6905bd08f1, 2022-06-08T17:52:54+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ combine, f9b9b6133b3f150fa5ef88c5781fed172f172dea, 2022-06-08T13:52:42-04:00, GitHub, combine, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, d1a977e54810c2514e7fad54def8a9766e0160e9, 2022-06-08T17:51:28+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ forgot-add, 2d855455ce69dbc8275223792a770af8796253ac, 2022-06-08T13:51:16-04:00, GitHub, forgot add, 
+.github/workflows/commitLogOnPush.yml
+
+ test-headers, 7183e8d1da2966bb107ee8cab5058676b4db1da9, 2022-06-08T13:49:53-04:00, GitHub, test headers, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, dcef2f6010c04765260785d17eb0362f9682fc56, 2022-06-08T17:48:33+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, a0dd3e712511a20ffdd0c74d81f5f80d371d77c3, 2022-06-08T13:48:20-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ amend, 6306201137b1ea39fc129fa29c07758beac3547b, 2022-06-08T13:46:33-04:00, GitHub, amend, 
+.github/workflows/commitLogOnPush.yml
+
+ edit, 5428fece81171afd4c1c0058b3f130a9777f7528, 2022-06-08T13:44:46-04:00, GitHub, edit, 
+.github/workflows/commitLogOnPush.yml
+
+ ammend, 5701491a7ac28fa76a54a352285977cebcaafd64, 2022-06-08T13:43:41-04:00, GitHub, ammend, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 6d588b2731e617472a1982b3bce6eabebe5400ed, 2022-06-08T17:41:06+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, 0e9c1143a966ba960d3a63ee155737b16269da85, 2022-06-08T13:40:46-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ revert, e1148f8c90afb56c2941d4cae143a32467f09c55, 2022-06-08T13:39:53-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 485f8df15d5da4fa1690ca823839a6969d4d0e5f, 2022-06-08T17:37:29+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ bottom-titles, 989e1f9edb47ffc1130b0f0d4e24bfe0db04a74a, 2022-06-08T13:37:17-04:00, GitHub, bottom titles, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, f4ff6709e63a29c74ace69eee524041ed2419a56, 2022-06-08T17:32:54+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ newline-clear, c586011727cb6b2da202bf2036a081ece692f447, 2022-06-08T13:32:43-04:00, GitHub, newline clear, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9548fb2ec297233bcfddf2d814f48548af60d942, 2022-06-08T17:32:05+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ try3, 41c639bef8071039c3ef5079088ed8da3c0a391e, 2022-06-08T13:31:53-04:00, GitHub, try3, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 0f38dd28fab57ae46efbe35626a0d42d7af2e2cb, 2022-06-08T17:30:58+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ final, 042293c30bb4c2f6ef1a48ff03ecab42ab39b4d7, 2022-06-08T13:30:47-04:00, GitHub, final?, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 948deaef58dd75be520fae0dc834b29f24684d8b, 2022-06-08T17:28:13+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ one-push, 1e17bee31bcef6219a6fda88f10b45276d95f969, 2022-06-08T13:28:01-04:00, GitHub, one push, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9c2a3ded47af0d010e8fca2e5e73b2794353ea87, 2022-06-08T17:26:31+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ try2, 36f4af40ad8f46dce5fbca85f64a935dbf2351a5, 2022-06-08T13:26:20-04:00, GitHub, try2, 
+.github/workflows/commitLogOnPush.yml
+
+ test, dc551f2319eda357d5bf9b704668bed1bbab58eb, 2022-06-08T13:18:44-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, cf8d99166168bab16a36098e7cc18db3600fe6d3, 2022-06-08T17:15:29+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ two-part, 0ed3393f683db6a5f2152ec9db0220bbf334cd5d, 2022-06-08T13:15:17-04:00, GitHub, two part, 
+.github/workflows/commitLogOnPush.yml
+
+ test, e403b7f93da2b996b76da618a1047bfbe893e483, 2022-06-08T13:10:11-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 49b202eb3f0e3eeb1f07ee38941bb258fa4ba6f6, 2022-06-08T16:53:27+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, e029be2865d1a084fd75e0a3956c835d0fa17dd4, 2022-06-08T12:53:17-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ One-line, defa05b659578a799c921211ed81a25c2c2d0e56, 2022-06-08T12:51:27-04:00, GitHub, One line, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 8e32cbb72c3c5d89b40ad176896cef8a5bcccdf3, 2022-06-08T16:49:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, ea20c1e18ba1b284a8cd07568e422cafe4558b90, 2022-06-08T12:49:19-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, c99ab9b508f15f4016a3ed2575fd16aa5cef64bf, 2022-06-08T16:48:44+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ full-header-test, caa3f1ac4fd6c39b72f5b60ad4ea32ee609e092c, 2022-06-08T12:48:31-04:00, GitHub, full header test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 2e9a0547c8b37f47d70456cb1dd0b39947516f17, 2022-06-08T16:46:38+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, 70fe02a47b9a28be8b9fc768b63d1ab57a47ce2f, 2022-06-08T12:46:26-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ testing-headers, 42c5da7b8c24336a44f0a1867b9cdffc771d6554, 2022-06-08T12:45:26-04:00, GitHub, testing headers, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9296f7706f106d7559b54ffade4a9af293860295, 2022-06-08T16:42:24+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ headertest-4, b9e805f2684b262b18144bfc38536741ba8ea3d8, 2022-06-08T12:42:14-04:00, GitHub, headertest 4, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 884fb0f03ed71d720907b7a3639f32850ed97438, 2022-06-08T16:40:37+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test-blank, 3c2419f737eec78a2309d898cac06f298fd3ebd7, 2022-06-08T12:40:25-04:00, GitHub, test blank, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 00db5ea60e11b468ceff164e1b57a63a4d95ad92, 2022-06-08T16:38:22+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, 806c19f5cc71423b54dc169bc7fdf9031a4eae79, 2022-06-08T12:38:12-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, af9afb5ac2f8abf462d2f33775056366896faeda, 2022-06-08T16:36:24+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ del-first-column, ba9f10d8637737194498d09a97f1228f134cf0a8, 2022-06-08T12:36:12-04:00, GitHub, del first column, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, ad0b63eec9fe571ff795101694bdf5beba0141a1, 2022-06-08T16:35:19+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ test, 4151cf3bf11626b8d63391d4d22c03c57509ceaf, 2022-06-08T12:35:07-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 0478bcc34df434e153c4611861701dce98ee6f4a, 2022-06-08T16:34:16+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ vert-test-2, a62040ab7936065e1d65d0432b2db06a59c84dd9, 2022-06-08T12:33:51-04:00, GitHub, vert test 2, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 04cb4224d13b950b22b4870869bf97d5d96fc8f1, 2022-06-08T16:32:41+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ captiloize, 3228fdf9a946aa81e30898c79ef9cc9f6e032d2e, 2022-06-08T12:32:28-04:00, GitHub, captiloize, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 4de9773984004215ec76004000dc2c0c8f6d3805, 2022-06-08T16:31:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ roll-back, bd6757c56dba9525ab532d4350e152efd114c8af, 2022-06-08T12:30:55-04:00, GitHub, roll back, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 5d4c0e1c1dc21bdb36a5c7fe7678d65920a27fd6, 2022-06-08T16:29:22+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ getting-back-to-square-1, a5e5aca228e93899ec5451eacc3cb3df24679868, 2022-06-08T12:29:11-04:00, GitHub, getting back to square 1, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 08c6ad704cb38c7ce213fc130ab42e217b75453a, 2022-06-08T16:25:55+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, b57254c1ab5cf00ce96106bab11bb5d67a459552, 2022-06-08T12:25:44-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, a66c60d7abb40efd4bbc901773c264de47db5c9a, 2022-06-08T16:24:47+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Getting-Data-vert-test, 8eb0af7957a936a71134d5db2cfc28a5a5f82f92, 2022-06-08T12:24:36-04:00, GitHub, Getting Data vert test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, d4ed992d1d7465c893b532812804cb785e4c6dea, 2022-06-08T16:21:09+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ header-attempt, ec04bd6f4a5d9e46bf90ad8d3b0918dd7e901a81, 2022-06-08T12:20:57-04:00, GitHub, header attempt, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 58694a298b6630c007c821067a9fdf55bc8e49cd, 2022-06-08T16:18:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ fixed, 46e40025be79288b5b18fcfae4c1f8fccb8baa9f, 2022-06-08T12:18:19-04:00, GitHub, fixed, 
+.github/workflows/commitLogOnPush.yml
+
+ full-history, 0d237201a8866187cbaaea27704b0bb4a3e31dd0, 2022-06-08T12:17:29-04:00, GitHub, full history, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, d505d84cc933688e9b1b043a22202ad95d14f4f3, 2022-06-08T16:12:07+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Update-commitLogOnPush.yml, d3099150116e04730974c1ad1adfa9312b63f09b, 2022-06-08T12:11:51-04:00, MartinTheDude, Update commitLogOnPush.yml, 
+ Update-octokit.csv, 17d73b1b87142acdb4c956910ef377b9afe325fb, 2022-06-08T12:11:26-04:00, MartinTheDude, Update octokit.csv, 
+data/octokit.csv
+
+ data-octokit.csv-updated, 37290de654668b6f2e77f5d185922964a1186466, 2022-06-08T16:08:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ header-test, c967547189d4af40246b5656d3c28d70a7263205, 2022-06-08T12:08:18-04:00, GitHub, header test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 52c2ac07f43b4915e4646d44156deaf586d79868, 2022-06-08T16:07:00+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ quotestest, a3dcfdc38b5e16e8749b3c153fd4c01239355f32, 2022-06-08T12:06:42-04:00, GitHub, quotestest, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9cc088d271d4990a2c1a3bbd3056f0013b04daa0, 2022-06-07T21:41:59+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ end-today, 5ad61a0a12f55608959d8fd266c9751b6184d3cf, 2022-06-07T17:41:43-04:00, GitHub, end today, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, bf7fbed90d033e9168dc9e43df8b49f387231e5e, 2022-06-07T21:26:33+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ seeing, 053957c703356183478553032f3d4ff8c85c7a67, 2022-06-07T17:26:23-04:00, GitHub, seeing, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 9b2fc8716d727e00698ba37ce74fc72f19f7bcff, 2022-06-07T21:24:23+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ back, fcfffd321e77ec5ebd7f29ef2fa4b6f505303269, 2022-06-07T17:24:10-04:00, GitHub, back, 
+.github/workflows/commitLogOnPush.yml
+
+ test, 7074a126f503d1c39cc44d2540f590a3ad187228, 2022-06-07T17:22:30-04:00, GitHub, test, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 5028624e3399eb90219c1ef47f6740e3437d6060, 2022-06-07T21:20:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ revert, 6dd7e43fbd8956ee31ea728d56f8559d917c13b6, 2022-06-07T17:20:19-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ revert, f44c28932d2d436032e16d25d3fe6da6b2aaf420, 2022-06-07T17:19:07-04:00, GitHub, revert, 
+.github/workflows/commitLogOnPush.yml
+
+ basic, 4dfa2144a986c3300f7a023196684bf02b495230, 2022-06-07T16:53:35-04:00, GitHub, basic, 
+.github/workflows/commitLogOnPush.yml
+
+ basic, 36f9a29f951928dd83b9db5dfc2a71d8df3a4b2f, 2022-06-07T16:52:55-04:00, GitHub, basic, 
+.github/workflows/commitLogOnPush.yml
+
+ test-format, 6415e5f8b1b43e2f73ebfc8455afa111dc35fb35, 2022-06-07T16:52:19-04:00, GitHub, test format, 
+.github/workflows/commitLogOnPush.yml
+
+ data-octokit.csv-updated, 64ee81893a204565b0147d6461f9706c4198172b, 2022-06-07T20:38:55+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Create-changer.txt, ca8275dca9ea14c7697495b4ce7fa50d732c8616, 2022-06-07T16:38:43-04:00, MartinTheDude, Create changer.txt, 
+changer.txt
+
+ data-octokit.csv-updated, baf227f5d7ea5e2043a10b8c0a948f93bcbead2b, 2022-06-07T20:36:09+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ testing, efc1beff20d25b71fb0f5aa7dc0e6b0c48d9b357, 2022-06-07T16:35:58-04:00, GitHub, testing, 
+.github/workflows/commitLogOnPush.yml
+
+ testing-cloud, 2ad5e474c5a603cc48f9fddd25fb47d4686544ce, 2022-06-07T16:32:37-04:00, GitHub, testing cloud, 
+.github/workflows/commitLogOnPush.yml
+
+ del, 2370c0a11f1c25f744db7ec522cf69733af2cd85, 2022-06-07T16:23:41-04:00, GitHub, del, 
+.github/workflows/writeToCSV.yml
+
+ try2, 95b36ca21af10c31398db8a4d7cf77c51052392b, 2022-06-07T16:21:30-04:00, GitHub, try2, 
+.github/workflows/commitLogOnPush.yml
+
+ added, c894792a73e77d15239744b38ab7219a814e0ffe, 2022-06-07T16:20:27-04:00, GitHub, added, 
+.github/workflows/commitLogOnPush.yml
+
+ Opening-New-Workflow, 7352b9d3cc12de1f8e2dca41b159c88254752256, 2022-06-07T16:18:35-04:00, GitHub, Opening New Workflow, 
+.github/workflows/commitLogOnPush.yml
+
+ change-headers, ff900edaae0e3acb5912b528af3d4465d28a37fc, 2022-06-07T16:13:16-04:00, GitHub, change headers, 
+.github/workflows/writeToCSV.yml
+
+ Update-commits.csv, 69022cb089205d1a657246c5cc6df9dc804559f0, 2022-06-07T16:09:09-04:00, MartinTheDude, Update commits.csv, 
+commits.csv
+
+ testing-auto, 03bbd0588a03d0e2dd82eb4691fed4abf8227792, 2022-06-07T16:02:41-04:00, GitHub, testing auto, 
+.github/workflows/writeToCSV.yml
+
+ change, 51e2d8748c3f2b69db6e94c163ba523ae820cadd, 2022-06-07T15:21:53-04:00, MartinTheDude, change, 
+commits.csv
+
+ revert, 16fd27d20361be845e274f0fd488b47dab4c4f4d, 2022-06-07T13:43:21-04:00, GitHub, revert, 
+.github/workflows/writeToCSV.yml
+
+ Update-commits.csv, 0147d9331e230d34b43570c2ba600440ca61d652, 2022-06-07T13:32:26-04:00, MartinTheDude, Update commits.csv, 
+commits.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, 038a4bb0f21d805072c96eb57c1ffd6527db79ab, 2022-06-07T13:31:47-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ Update-commits.csv, f18dfc971f69fec96dad4f5d5825d6f950e2d4f7, 2022-06-07T13:31:31-04:00, MartinTheDude, Update commits.csv, 
+commits.csv
+
+ change-to-fit, 7e9d87e4d3259d184e91a9e932d8f3ddcbad72d8, 2022-06-07T13:30:36-04:00, GitHub, change to fit, 
+.github/workflows/writeToCSV.yml
+
+ data-octokit.csv-updated, 61d0e646b681ed4952fdd1d01ebc1dfd30188bdd, 2022-06-07T00:48:30+00:00, GitHub Action, data/octokit.csv updated, 
+data/octokit.csv
+
+ Create-commits.csv, 8d125a17f5e5ec5e25ec3dbede4b77610cc1c680, 2022-06-06T19:18:55-04:00, MartinTheDude, Create commits.csv, 
+commits.csv
+
+ Merge-branch-main-of-https-github.com-MartinTheDude-testingMagicDraw, bb66a5ea4db90b3e0018fc12290d5f16af87a075, 2022-06-06T19:17:17-04:00, MartinTheDude, Merge branch 'main' of https://github.com/MartinTheDude/testingMagicDraw, 
+ testing, 27dbc1b6044cb50981bd42ad9e9e69a118bb3527, 2022-06-06T19:17:14-04:00, MartinTheDude, testing, 
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/testingMagicDraw.iml
+.idea/vcs.xml
+.idea/workspace.xml
+
+ creating-workflow, 46c61298aa7bc412129477c969cf005844c1ec66, 2022-06-06T12:36:11-04:00, GitHub, creating workflow, 
+.github/workflows/writeToCSV.yml
+
+ meeting, 1cb16e49465c2a43d3ff6bb8ffa8264cff313427, 2022-05-24T14:32:24-04:00, MartinTheDude, meeting, 
+TestingMD.xml
+TestingMD.xml.bak
+TestingMDXML.xml
+
+ lets-go, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19T12:32:22-04:00, MartinTheDude, lets go, 
+MotorExampleXML.xml
+MotorExampleXML.xml.bak
+TestingMD.mdzip
+TestingMD.mdzip.bak
+TestingMD.xml
+TestingMD.xml.bak
+
+, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19T11:55:46-04:00, MartinTheDude, ?, 
+MotorExampleXML.xml
+MotorExampleXML.xml.bak
+
+ Create-MotorExampleXML.xml, 152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19T11:54:08-04:00, MartinTheDude, Create MotorExampleXML.xml, 
+MotorExampleXML.xml
+
+ Create-MotorExample.mdxml, e7a7e362d8210863f5b7247d876c1deab21c3a73, 2022-05-19T11:52:42-04:00, MartinTheDude, Create MotorExample.mdxml, 
+MotorExample.mdxml
+
+ Create-MotorExample.mdzip, 6a3946a4cbc18ff1fab6bd4cb56802a9e6315979, 2022-05-19T11:51:00-04:00, MartinTheDude, Create MotorExample.mdzip, 
+MotorExample.mdzip
+
+ testing-testing-123, 48c2db4049371e6533f55e049d754856807e2190, 2022-05-18T18:33:56-04:00, MartinTheDude, testing testing 123, 
+TestingMD.mdzip
+TestingMD.mdzip.bak
