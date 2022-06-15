@@ -5,3 +5,6 @@ the data folder has all the raw CSV's but the commits in the main folder is the 
 
 usesful links 
 https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+
+image test 
+https://github.com/MartinTheDude/testingMagicDraw/blob/ef181226538cd4403da483274cd6edbee60a2a82/model.png
