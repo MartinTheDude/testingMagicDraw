@@ -11,7 +11,7 @@ imposter = commits.Properties.VariableDescriptions;
 commits = array2table([cell(imposter) ; table2cell(commits)]);
 
 %Rename Headers
-commits.Properties.VariableNames = ["Commit_ID", "Time/Date", "Author", "Subject"];
+commits.Properties.VariableNames = ["Commit_ID", "Time/Date", "Author", "Subject", "FileName"];
 
 %Write Out
 writetable(commits, 'commits.csv');
