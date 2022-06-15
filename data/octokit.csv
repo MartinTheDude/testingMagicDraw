@@ -137,6 +137,7 @@ MotorExampleXML.xml, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19 11:55:
 MotorExampleXML.xml, 152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19 11:54:08 -0400, MartinTheDude, MartinTheDude, Create MotorExampleXML.xml
 MotorExampleXML.xml.bak, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19 12:32:22 -0400, MartinTheDude, MartinTheDude, lets go
 MotorExampleXML.xml.bak, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19 11:55:46 -0400, MartinTheDude, MartinTheDude, ?
+README.md, 23cf36e13ba283bc41f144b7ac4299835e9ef66e, 2022-06-15 12:23:53 -0400, MartinTheDude, GitHub, testing images
 README.md, fefe00539f9958af55066aee117603b116bd04e0, 2022-06-15 10:08:57 -0400, MartinTheDude, GitHub, Update README.md
 README.md, 9e6ad9e7426a72b78b79e5c1b437929864d60927, 2022-06-14 11:08:28 -0400, MartinTheDude, GitHub, Update README.md
 README.md, 5d9ae84664fe21f5ced82b84305ca9fa87da0e4c, 2022-06-10 08:40:42 -0400, MartinTheDude, GitHub, Create Readme
@@ -191,6 +192,7 @@ data/formatWizard.m, 9cf45abb9ded391fa531baa338a36a651c535734, 2022-06-13 21:31:
 data/formatWizard.m, 89f2a2eaf9871cc916503182c5891713074fe2a1, 2022-06-13 11:57:38 -0400, MartinTheDude, MartinTheDude, Delete writeToCSV.yml
 data/formatWizard.m, 0b04f25043fb1b209bd033c37d6dc0e24c7b752d, 2022-06-13 11:49:53 -0400, MartinTheDude, MartinTheDude, fulltest
 data/formatWizard.m, 8237fa3225474e355db12248b83f5c1368dbf774, 2022-06-13 10:53:29 -0400, MartinTheDude, MartinTheDude, putting formatWizard in right Folder
+data/octokit.csv, ef181226538cd4403da483274cd6edbee60a2a82, 2022-06-15 16:22:55 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, 509258b40c1d0665854cb6cf840db411805fd4f0, 2022-06-15 16:08:32 +0000, GitHub Action, GitHub Action, data/commits updated with format
 data/octokit.csv, 51b85dea219f8ca5233645cd9a185220438db29d, 2022-06-15 16:05:11 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, a2e4356971e9870064441e67799100366c8035f6, 2022-06-15 16:04:03 +0000, GitHub Action, GitHub Action, data/commits updated with format
