@@ -1,4 +1,4 @@
-FileName,Commit_ID,Time/Date,Commit_Author,File_Author,Subject
+FileName,Commit_ID,Time/Date,Commit_Author,Subject,File_Author
 .github/workflows/commitLogOnPush.yml,28305fd34e600b2571cf96b6a56c54c54e51c0df,2022-06-15 11:57:20 -0400,MartinTheDude,Update commitLogOnPush.yml,GitHub
 .github/workflows/commitLogOnPush.yml,b7b499d3b7481ebf275fd8353f08a5e42a807c60,2022-06-15 11:53:53 -0400,MartinTheDude,with subject,GitHub
 .github/workflows/commitLogOnPush.yml,9ec99c2641b9348477bd23ed65b71658204766aa,2022-06-15 11:52:05 -0400,MartinTheDude,maybe it will run more than just once per file?,GitHub
