@@ -18,7 +18,7 @@ jobs:
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           file: |
-                ${{run: git log --name-only}}
+                ${{git log --name-only}}
           
   format:
     needs: populate
