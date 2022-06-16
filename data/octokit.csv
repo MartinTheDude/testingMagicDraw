@@ -131,8 +131,6 @@
 .idea/vcs.xml, 27dbc1b6044cb50981bd42ad9e9e69a118bb3527, 2022-06-06 19:17:14 -0400, MartinTheDude, MartinTheDude, testing
 .idea/workspace.xml, 27dbc1b6044cb50981bd42ad9e9e69a118bb3527, 2022-06-06 19:17:14 -0400, MartinTheDude, MartinTheDude, testing
 GenericTableTesting.mdzip, c7c886dd3531906c39eefca79385b9c380498657, 2022-06-16 09:25:53 -0400, MartinTheDude, MartinTheDude, Create GenericTableTesting.mdzip
-MotorExample.mdxml, e7a7e362d8210863f5b7247d876c1deab21c3a73, 2022-05-19 11:52:42 -0400, MartinTheDude, MartinTheDude, Create MotorExample.mdxml
-MotorExample.mdzip, 6a3946a4cbc18ff1fab6bd4cb56802a9e6315979, 2022-05-19 11:51:00 -0400, MartinTheDude, MartinTheDude, Create MotorExample.mdzip
 MotorExampleXML.xml, 448645b3619c0d3505650f0ac505b899bed71db4, 2022-05-19 12:32:22 -0400, MartinTheDude, MartinTheDude, lets go
 MotorExampleXML.xml, d1da2c568ea0e1aa94966067cb1da1524603fca0, 2022-05-19 11:55:46 -0400, MartinTheDude, MartinTheDude, ?
 MotorExampleXML.xml, 152a1aa5e36d02a73420f8cdf71eef0ad64e597b, 2022-05-19 11:54:08 -0400, MartinTheDude, MartinTheDude, Create MotorExampleXML.xml
@@ -200,6 +198,7 @@ data/formatWizard.m, 9cf45abb9ded391fa531baa338a36a651c535734, 2022-06-13 21:31:
 data/formatWizard.m, 89f2a2eaf9871cc916503182c5891713074fe2a1, 2022-06-13 11:57:38 -0400, MartinTheDude, MartinTheDude, Delete writeToCSV.yml
 data/formatWizard.m, 0b04f25043fb1b209bd033c37d6dc0e24c7b752d, 2022-06-13 11:49:53 -0400, MartinTheDude, MartinTheDude, fulltest
 data/formatWizard.m, 8237fa3225474e355db12248b83f5c1368dbf774, 2022-06-13 10:53:29 -0400, MartinTheDude, MartinTheDude, putting formatWizard in right Folder
+data/octokit.csv, c24ddaa0ba2c7807e06cf3a9416cb773d5ff83ea, 2022-06-16 13:26:11 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, f0509e3e78cf647b4ae40f093fc45366aa0a760d, 2022-06-16 03:45:13 +0000, GitHub Action, GitHub Action, data/commits updated with format
 data/octokit.csv, aea90321e508b3ffaa6b9363e52d8ae39ef14d21, 2022-06-16 03:43:31 +0000, GitHub Action, GitHub Action, data/octokit.csv updated
 data/octokit.csv, cc59f596025107e65ff7588611badc8732e154f2, 2022-06-15 16:32:23 +0000, GitHub Action, GitHub Action, data/commits updated with format
