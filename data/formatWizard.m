@@ -8,7 +8,7 @@ commits = readtable('octokit.csv');
 imposter = commits.Properties.VariableDescriptions;
 
 %Concat piece of data that was used as header to table
-commits = array2table([cell(imposter) ; table2cell(commits)]);
+commits = cell2table([cell(imposter) ; table2cell(commits)]);
 
 %Rename Headers
 %commits.Properties.VariableNames = [ "FileName", "Commit_ID", "Time/Date", "Commit_Author" ,"Subject", "File_Author"];
