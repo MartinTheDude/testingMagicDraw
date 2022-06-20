@@ -1,3 +1,5 @@
+.github/workflows/commitLogOnPush.yml,844f262928c01f43d379c0ea1446973a0e7cc6aa,2022-06-20 15:02:27 -0400,MartinTheDude,GitHub,delete old
+.github/workflows/commitLogOnPush.yml,864e57655b323238da99ae38c69a5d8043638a86,2022-06-20 14:58:49 -0400,MartinTheDude,GitHub,testing old part
 .github/workflows/commitLogOnPush.yml,3cd8382a64e718996d4bff84a70f87eb224b21cb,2022-06-20 14:51:48 -0400,MartinTheDude,GitHub,testing
 .github/workflows/commitLogOnPush.yml,e99dc28b150a9ff83d4190fb4081e5b343788454,2022-06-16 11:35:32 -0400,MartinTheDude,GitHub,commented out problematic code
 .github/workflows/commitLogOnPush.yml,f893a59d09058bea868ec555ab53fcec7c418213,2022-06-15 12:01:44 -0400,MartinTheDude,GitHub,reOrder
@@ -169,6 +171,7 @@ TestingMD.xml,448645b3619c0d3505650f0ac505b899bed71db4,2022-05-19 12:32:22 -0400
 TestingMD.xml.bak,1cb16e49465c2a43d3ff6bb8ffa8264cff313427,2022-05-24 14:32:24 -0400,MartinTheDude,MartinTheDude,meeting
 TestingMD.xml.bak,448645b3619c0d3505650f0ac505b899bed71db4,2022-05-19 12:32:22 -0400,MartinTheDude,MartinTheDude,lets go
 TestingMDXML.xml,1cb16e49465c2a43d3ff6bb8ffa8264cff313427,2022-05-24 14:32:24 -0400,MartinTheDude,MartinTheDude,meeting
+commits.csv,9f5e5c19f22bea564d920060822bdd6fb1d37823,2022-06-20 19:00:59 +0000,GitHub Action,GitHub Action,data/commits updated with format
 commits.csv,7627ad7e7d92a1dd07254265181830d9eb69e0a7,2022-06-16 15:11:25 +0000,GitHub Action,GitHub Action,data/commits updated with format
 commits.csv,84a20e32cdde3c96398dfec60a43e459bbf294f0,2022-06-15 16:29:35 +0000,GitHub Action,GitHub Action,data/commits updated with format
 commits.csv,509258b40c1d0665854cb6cf840db411805fd4f0,2022-06-15 16:08:32 +0000,GitHub Action,GitHub Action,data/commits updated with format
@@ -205,6 +208,9 @@ data/formatWizard.m,9cf45abb9ded391fa531baa338a36a651c535734,2022-06-13 21:31:32
 data/formatWizard.m,89f2a2eaf9871cc916503182c5891713074fe2a1,2022-06-13 11:57:38 -0400,MartinTheDude,MartinTheDude,Delete writeToCSV.yml
 data/formatWizard.m,0b04f25043fb1b209bd033c37d6dc0e24c7b752d,2022-06-13 11:49:53 -0400,MartinTheDude,MartinTheDude,fulltest
 data/formatWizard.m,8237fa3225474e355db12248b83f5c1368dbf774,2022-06-13 10:53:29 -0400,MartinTheDude,MartinTheDude,putting formatWizard in right Folder
+data/octokit.csv,9f5e5c19f22bea564d920060822bdd6fb1d37823,2022-06-20 19:00:59 +0000,GitHub Action,GitHub Action,data/commits updated with format
+data/octokit.csv,2ecc5e1de08508b29e3b3faeed737c5d1b113ae7,2022-06-20 18:59:01 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
+data/octokit.csv,73bcf09f84843a4e305ff168c2c44ab7634bc13e,2022-06-20 18:52:00 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,8fc5240f86f12790356107de268d5735cb8da622,2022-06-16 15:35:43 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,3791ad3f8a9a92daeb931d38230ccdcfaa65acf4,2022-06-16 15:17:04 +0000,GitHub Action,GitHub Action,data/commits updated with format
 data/octokit.csv,822816bb0096d1c0791009bc033e3a2e1a9eedf0,2022-06-16 15:15:07 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
