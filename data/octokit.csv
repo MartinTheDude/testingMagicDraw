@@ -1,4 +1,3 @@
-.github/workflows/commitLogOnPush.yml,0ea4217767c66527d4a79e582d1fa7215fd92c13,2022-06-20 16:47:23 -0400,MartinTheDude,GitHub,try again
 .github/workflows/commitLogOnPush.yml,844f262928c01f43d379c0ea1446973a0e7cc6aa,2022-06-20 15:02:27 -0400,MartinTheDude,GitHub,delete old
 .github/workflows/commitLogOnPush.yml,864e57655b323238da99ae38c69a5d8043638a86,2022-06-20 14:58:49 -0400,MartinTheDude,GitHub,testing old part
 .github/workflows/commitLogOnPush.yml,3cd8382a64e718996d4bff84a70f87eb224b21cb,2022-06-20 14:51:48 -0400,MartinTheDude,GitHub,testing
@@ -251,7 +250,6 @@ data/formatWizard.m,9cf45abb9ded391fa531baa338a36a651c535734,2022-06-13 21:31:32
 data/formatWizard.m,89f2a2eaf9871cc916503182c5891713074fe2a1,2022-06-13 11:57:38 -0400,MartinTheDude,MartinTheDude,Delete writeToCSV.yml
 data/formatWizard.m,0b04f25043fb1b209bd033c37d6dc0e24c7b752d,2022-06-13 11:49:53 -0400,MartinTheDude,MartinTheDude,fulltest
 data/formatWizard.m,8237fa3225474e355db12248b83f5c1368dbf774,2022-06-13 10:53:29 -0400,MartinTheDude,MartinTheDude,putting formatWizard in right Folder
-data/octokit.csv,592f113b24c1ba30d27adac37d694b23e2b526ad,2022-06-20 20:46:20 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,9a8d373241be78d61f93498946b439dc0b119851,2022-06-20 20:45:13 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,26478a28f97405da190f8721af86d832dec72ac2,2022-06-20 20:34:29 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,b101e5b3cda2739d438be24faf6e97ae120660b0,2022-06-20 20:13:49 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
