@@ -137,9 +137,14 @@
 .metadata/.lock,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.log,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.markers.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.syncinfo.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/0.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/0.snap,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
@@ -147,7 +152,9 @@
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.oomph.setup/workspace.setup,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
@@ -230,6 +237,7 @@ data/formatWizard.m,9cf45abb9ded391fa531baa338a36a651c535734,2022-06-13 21:31:32
 data/formatWizard.m,89f2a2eaf9871cc916503182c5891713074fe2a1,2022-06-13 11:57:38 -0400,MartinTheDude,MartinTheDude,Delete writeToCSV.yml
 data/formatWizard.m,0b04f25043fb1b209bd033c37d6dc0e24c7b752d,2022-06-13 11:49:53 -0400,MartinTheDude,MartinTheDude,fulltest
 data/formatWizard.m,8237fa3225474e355db12248b83f5c1368dbf774,2022-06-13 10:53:29 -0400,MartinTheDude,MartinTheDude,putting formatWizard in right Folder
+data/octokit.csv,e639764b92e2f308d60922d356d75d66495eb539,2022-06-20 19:11:35 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,62860e1708d71d1e1d28cef243314770d10c5576,2022-06-20 19:02:39 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,9f5e5c19f22bea564d920060822bdd6fb1d37823,2022-06-20 19:00:59 +0000,GitHub Action,GitHub Action,data/commits updated with format
 data/octokit.csv,2ecc5e1de08508b29e3b3faeed737c5d1b113ae7,2022-06-20 18:59:01 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
