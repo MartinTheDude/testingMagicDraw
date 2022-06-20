@@ -2,7 +2,7 @@ function formatWizard()
 
 
 %Read From CSV
-commits = readtable('octokit.csv', 'Delimiter', ",");
+commits = readtable('octokit.csv', 'Delimiter', " , ");
 
 %Take out headers, they are actually apart of the dataset
 imposter = commits.Properties.VariableDescriptions;
