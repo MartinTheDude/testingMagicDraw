@@ -167,7 +167,6 @@
  .metadata/.plugins/org.eclipse.ui.intro/introstate , f2076b497d584588eb34a07dd0bafa169a3c3c92 , 2022-06-20 15:11:21 -0400 , MartinTheDude , MartinTheDude , Java 
  .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml , f2076b497d584588eb34a07dd0bafa169a3c3c92 , 2022-06-20 15:11:21 -0400 , MartinTheDude , MartinTheDude , Java 
  .metadata/version.ini , f2076b497d584588eb34a07dd0bafa169a3c3c92 , 2022-06-20 15:11:21 -0400 , MartinTheDude , MartinTheDude , Java 
- GenericTableTesting.mdzip , 5b4eccf5b39ed112126c57a9b8e7e784ecbc9bb0 , 2022-06-20 17:34:00 -0400 , MartinTheDude , MartinTheDude , Generic Table Semi Success 
  GenericTableTesting.mdzip , eac92deef79eba9f2a54039ffa1e1499ebe001c2 , 2022-06-20 16:44:57 -0400 , MartinTheDude , MartinTheDude , revert 
  GenericTableTesting.mdzip , d65c38e5f944134ce1b39f8f71fd2affe1e2cc7b , 2022-06-20 16:34:10 -0400 , MartinTheDude , MartinTheDude , getting there 
  GenericTableTesting.mdzip , 0a25fa51565c2bd92aff5d913185d7a1823001dc , 2022-06-20 16:13:24 -0400 , MartinTheDude , MartinTheDude , download 
@@ -175,7 +174,6 @@
  GenericTableTesting.mdzip , f2076b497d584588eb34a07dd0bafa169a3c3c92 , 2022-06-20 15:11:21 -0400 , MartinTheDude , MartinTheDude , Java 
  GenericTableTesting.mdzip , f2f6eccc06e81b684b154dc89a5fe09b180d79b8 , 2022-06-16 10:35:32 -0400 , MartinTheDude , MartinTheDude , update 
  GenericTableTesting.mdzip , c7c886dd3531906c39eefca79385b9c380498657 , 2022-06-16 09:25:53 -0400 , MartinTheDude , MartinTheDude , Create GenericTableTesting.mdzip 
- GenericTableTesting.mdzip.bak , 5b4eccf5b39ed112126c57a9b8e7e784ecbc9bb0 , 2022-06-20 17:34:00 -0400 , MartinTheDude , MartinTheDude , Generic Table Semi Success 
  GenericTableTesting.mdzip.bak , eac92deef79eba9f2a54039ffa1e1499ebe001c2 , 2022-06-20 16:44:57 -0400 , MartinTheDude , MartinTheDude , revert 
  GenericTableTesting.mdzip.bak , d65c38e5f944134ce1b39f8f71fd2affe1e2cc7b , 2022-06-20 16:34:10 -0400 , MartinTheDude , MartinTheDude , getting there 
  GenericTableTesting.mdzip.bak , 0a25fa51565c2bd92aff5d913185d7a1823001dc , 2022-06-20 16:13:24 -0400 , MartinTheDude , MartinTheDude , download 
@@ -216,7 +214,6 @@
  TestingMD.xml.bak , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
  TestingMD.xml.bak , 448645b3619c0d3505650f0ac505b899bed71db4 , 2022-05-19 12:32:22 -0400 , MartinTheDude , MartinTheDude , lets go 
  TestingMDXML.xml , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
- commits.csv , 91fa218351a7a15784bca03739ee6fdb14ee45b1 , 2022-06-20 20:57:04 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  commits.csv , cb0e2ed5bb9d934606e82b3f43d54957ae0aec4e , 2022-06-20 20:53:01 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  commits.csv , 545fb9ac543fd984f169dce846bec9108a700108 , 2022-06-20 20:49:55 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  commits.csv , 9f5e5c19f22bea564d920060822bdd6fb1d37823 , 2022-06-20 19:00:59 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
@@ -243,7 +240,6 @@
  commits.csv , f18dfc971f69fec96dad4f5d5825d6f950e2d4f7 , 2022-06-07 13:31:31 -0400 , MartinTheDude , MartinTheDude , Update commits.csv 
  commits.csv , 8d125a17f5e5ec5e25ec3dbede4b77610cc1c680 , 2022-06-06 19:18:55 -0400 , MartinTheDude , MartinTheDude , Create commits.csv 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
- data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
  data/formatWizard.m , 44d87512ef5d43bcf1636304b9908a1e2335f0a7 , 2022-06-20 16:53:59 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
  data/formatWizard.m , ab9e04d9b7199723a9f026bc1149a5fe8ed47c7c , 2022-06-20 16:50:43 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
  data/formatWizard.m , d83f804c963f813ff64bee64be9b0864f26a2af8 , 2022-06-20 16:46:04 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
@@ -260,9 +256,6 @@
  data/formatWizard.m , 89f2a2eaf9871cc916503182c5891713074fe2a1 , 2022-06-13 11:57:38 -0400 , MartinTheDude , MartinTheDude , Delete writeToCSV.yml 
  data/formatWizard.m , 0b04f25043fb1b209bd033c37d6dc0e24c7b752d , 2022-06-13 11:49:53 -0400 , MartinTheDude , MartinTheDude , fulltest 
  data/formatWizard.m , 8237fa3225474e355db12248b83f5c1368dbf774 , 2022-06-13 10:53:29 -0400 , MartinTheDude , MartinTheDude , putting formatWizard in right Folder 
- data/octokit.csv , 91fa218351a7a15784bca03739ee6fdb14ee45b1 , 2022-06-20 20:57:04 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
- data/octokit.csv , 8385057033cf8ca4395feac452c7c3911d504f40 , 2022-06-20 20:55:10 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
- data/octokit.csv , d175a73bbc41c219aa481a8078086574bafb2453 , 2022-06-20 20:54:52 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , d227ec25456db1ccfad5136798dd02f6b95015d9 , 2022-06-20 20:54:13 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , cb0e2ed5bb9d934606e82b3f43d54957ae0aec4e , 2022-06-20 20:53:01 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/octokit.csv , 99f5b16bf03d91249a30628d354d9dc50be855d8 , 2022-06-20 20:50:55 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
