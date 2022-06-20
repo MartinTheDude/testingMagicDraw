@@ -129,6 +129,7 @@
 .github/workflows/commitLogOnPush.yml,95b36ca21af10c31398db8a4d7cf77c51052392b,2022-06-07 16:21:30 -0400,MartinTheDude,GitHub,try2
 .github/workflows/commitLogOnPush.yml,c894792a73e77d15239744b38ab7219a814e0ffe,2022-06-07 16:20:27 -0400,MartinTheDude,GitHub,added
 .github/workflows/commitLogOnPush.yml,7352b9d3cc12de1f8e2dca41b159c88254752256,2022-06-07 16:18:35 -0400,MartinTheDude,GitHub,Opening New Workflow
+.gitignore,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .idea/inspectionProfiles/profiles_settings.xml,27dbc1b6044cb50981bd42ad9e9e69a118bb3527,2022-06-06 19:17:14 -0400,MartinTheDude,MartinTheDude,testing
 .idea/modules.xml,27dbc1b6044cb50981bd42ad9e9e69a118bb3527,2022-06-06 19:17:14 -0400,MartinTheDude,MartinTheDude,testing
 .idea/testingMagicDraw.iml,27dbc1b6044cb50981bd42ad9e9e69a118bb3527,2022-06-06 19:17:14 -0400,MartinTheDude,MartinTheDude,testing
@@ -137,23 +138,32 @@
 .metadata/.lock,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.log,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.markers.snap,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.markers.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.syncinfo.snap,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.syncinfo.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.resources/0.snap,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.resources/0.snap,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.resources/0.snap,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
+.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
 .metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat,22950a1cfe3c40ddad64f33f948aea60e78680fb,2022-06-20 15:41:07 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml,f2076b497d584588eb34a07dd0bafa169a3c3c92,2022-06-20 15:11:21 -0400,MartinTheDude,MartinTheDude,Java
@@ -237,6 +247,7 @@ data/formatWizard.m,9cf45abb9ded391fa531baa338a36a651c535734,2022-06-13 21:31:32
 data/formatWizard.m,89f2a2eaf9871cc916503182c5891713074fe2a1,2022-06-13 11:57:38 -0400,MartinTheDude,MartinTheDude,Delete writeToCSV.yml
 data/formatWizard.m,0b04f25043fb1b209bd033c37d6dc0e24c7b752d,2022-06-13 11:49:53 -0400,MartinTheDude,MartinTheDude,fulltest
 data/formatWizard.m,8237fa3225474e355db12248b83f5c1368dbf774,2022-06-13 10:53:29 -0400,MartinTheDude,MartinTheDude,putting formatWizard in right Folder
+data/octokit.csv,5f8668d7ce12b60220dcc6e21137521774e18b5f,2022-06-20 19:41:24 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,e639764b92e2f308d60922d356d75d66495eb539,2022-06-20 19:11:35 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,62860e1708d71d1e1d28cef243314770d10c5576,2022-06-20 19:02:39 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,9f5e5c19f22bea564d920060822bdd6fb1d37823,2022-06-20 19:00:59 +0000,GitHub Action,GitHub Action,data/commits updated with format
@@ -406,3 +417,9 @@ data/octokit.csv,64ee81893a204565b0147d6461f9706c4198172b,2022-06-07 20:38:55 +0
 data/octokit.csv,baf227f5d7ea5e2043a10b8c0a948f93bcbead2b,2022-06-07 20:36:09 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 data/octokit.csv,61d0e646b681ed4952fdd1d01ebc1dfd30188bdd,2022-06-07 00:48:30 +0000,GitHub Action,GitHub Action,data/octokit.csv updated
 model.png,46a8a26f8c1bc712834bc0623c36f3807e4b8880,2022-06-15 12:22:40 -0400,MartinTheDude,MartinTheDude,Create model.png
+noMagicAPI/.classpath,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
+noMagicAPI/.gitignore,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
+noMagicAPI/.project,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
+noMagicAPI/.settings/org.eclipse.jdt.core.prefs,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
+noMagicAPI/src/imgExporter.java,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
+noMagicAPI/src/module-info.java,c3d23ffc376dcddc03bf374d3556060a54d0a1f5,2022-06-20 15:45:50 -0400,MartinTheDude,MartinTheDude,testing nomagic API
