@@ -240,6 +240,7 @@
  commits.csv , f18dfc971f69fec96dad4f5d5825d6f950e2d4f7 , 2022-06-07 13:31:31 -0400 , MartinTheDude , MartinTheDude , Update commits.csv 
  commits.csv , 8d125a17f5e5ec5e25ec3dbede4b77610cc1c680 , 2022-06-06 19:18:55 -0400 , MartinTheDude , MartinTheDude , Create commits.csv 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
+ data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
  data/formatWizard.m , 44d87512ef5d43bcf1636304b9908a1e2335f0a7 , 2022-06-20 16:53:59 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
  data/formatWizard.m , ab9e04d9b7199723a9f026bc1149a5fe8ed47c7c , 2022-06-20 16:50:43 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
  data/formatWizard.m , d83f804c963f813ff64bee64be9b0864f26a2af8 , 2022-06-20 16:46:04 -0400 , MartinTheDude , GitHub , Update formatWizard.m 
@@ -256,6 +257,7 @@
  data/formatWizard.m , 89f2a2eaf9871cc916503182c5891713074fe2a1 , 2022-06-13 11:57:38 -0400 , MartinTheDude , MartinTheDude , Delete writeToCSV.yml 
  data/formatWizard.m , 0b04f25043fb1b209bd033c37d6dc0e24c7b752d , 2022-06-13 11:49:53 -0400 , MartinTheDude , MartinTheDude , fulltest 
  data/formatWizard.m , 8237fa3225474e355db12248b83f5c1368dbf774 , 2022-06-13 10:53:29 -0400 , MartinTheDude , MartinTheDude , putting formatWizard in right Folder 
+ data/octokit.csv , d175a73bbc41c219aa481a8078086574bafb2453 , 2022-06-20 20:54:52 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , d227ec25456db1ccfad5136798dd02f6b95015d9 , 2022-06-20 20:54:13 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , cb0e2ed5bb9d934606e82b3f43d54957ae0aec4e , 2022-06-20 20:53:01 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/octokit.csv , 99f5b16bf03d91249a30628d354d9dc50be855d8 , 2022-06-20 20:50:55 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
