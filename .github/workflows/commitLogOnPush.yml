@@ -17,30 +17,30 @@ jobs:
     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-  #format:
-    #needs: populate
-    #runs-on: ubuntu-latest
-   # steps:
-    #  - uses: actions/checkout@v2
-     # - name: pull-request
-      #  uses: repo-sync/pull-request@v2
-       # with:
-        #    destination_branch: "main"
-         #   github_token: ${{ secrets.GITHUB_TOKEN }}
-      #- name: Set up MATLAB
-       # uses: matlab-actions/setup-matlab@v1
-      #- name: Run commands
-       # uses: matlab-actions/run-command@v1
-       # with:
-       #   command: addpath('data'), formatWizard 
-      #- run: git config --local user.email "action@github.com"
-     # - run: git config --local user.name "GitHub Action"
-     # - run: git add 'commits.csv'
-     # - run: git commit -m "data/commits updated with format"
-     # - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
-     #   env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+  format:
+    needs: populate
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v2
+     - name: pull-request
+       uses: repo-sync/pull-request@v2
+       with:
+            destination_branch: "main"
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+     - name: Set up MATLAB
+       uses: matlab-actions/setup-matlab@v1
+     - name: Run commands
+       uses: matlab-actions/run-command@v1
+       with:
+            command: addpath('data'), formatWizard 
+     - run: git config --local user.email "action@github.com"
+     - run: git config --local user.name "GitHub Action"
+     - run: git add 'commits.csv'
+     - run: git commit -m "data/commits updated with format"
+     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
+       env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     
           
