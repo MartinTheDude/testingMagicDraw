@@ -1,4 +1,4 @@
-Var1,Var2,Var3,Var4,Var5,Var6
+FileName,Commit_ID,Time/Date,Commit_Author,Subject,File_Author
 .github/workflows/commitLogOnPush.yml,844f262928c01f43d379c0ea1446973a0e7cc6aa,2022-06-20 15:02:27 -0400,MartinTheDude,GitHub,delete old
 .github/workflows/commitLogOnPush.yml,864e57655b323238da99ae38c69a5d8043638a86,2022-06-20 14:58:49 -0400,MartinTheDude,GitHub,testing old part
 .github/workflows/commitLogOnPush.yml,3cd8382a64e718996d4bff84a70f87eb224b21cb,2022-06-20 14:51:48 -0400,MartinTheDude,GitHub,testing
