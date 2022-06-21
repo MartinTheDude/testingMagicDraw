@@ -262,7 +262,6 @@
  data/formatWizard.m , 89f2a2eaf9871cc916503182c5891713074fe2a1 , 2022-06-13 11:57:38 -0400 , MartinTheDude , MartinTheDude , Delete writeToCSV.yml 
  data/formatWizard.m , 0b04f25043fb1b209bd033c37d6dc0e24c7b752d , 2022-06-13 11:49:53 -0400 , MartinTheDude , MartinTheDude , fulltest 
  data/formatWizard.m , 8237fa3225474e355db12248b83f5c1368dbf774 , 2022-06-13 10:53:29 -0400 , MartinTheDude , MartinTheDude , putting formatWizard in right Folder 
- data/octokit.csv , b364f2a0ab5507eb6bb427f814a04543c304d143 , 2022-06-21 17:26:03 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , d349379c85ca01f8dd317ee5fc5ef9f9a3bedd17 , 2022-06-20 21:36:00 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/octokit.csv , f37257acb45479f2a19c647e5adc3fde6a3fdcf6 , 2022-06-20 21:34:15 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , 91fa218351a7a15784bca03739ee6fdb14ee45b1 , 2022-06-20 20:57:04 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
@@ -448,7 +447,6 @@
  data/octokit.csv , 64ee81893a204565b0147d6461f9706c4198172b , 2022-06-07 20:38:55 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , baf227f5d7ea5e2043a10b8c0a948f93bcbead2b , 2022-06-07 20:36:09 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , 61d0e646b681ed4952fdd1d01ebc1dfd30188bdd , 2022-06-07 00:48:30 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
- magicDrawWriteTo.csv , db2386f714fbaad50b2971e10591dae20c622774 , 2022-06-21 13:26:50 -0400 , MartinTheDude , MartinTheDude , Create magicDrawWriteTo.csv 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
  noMagicAPI/.classpath , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
  noMagicAPI/.classpath , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
