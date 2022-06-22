@@ -1,4 +1,4 @@
- .github/workflows/commitLogOnPush.yml , 07fc8787665dbc2dfbf0c264f492ccd69a958dc7 , 2022-06-22 10:33:55 -0400 , MartinTheDude , GitHub , revert 
+ .github/workflows/commitLogOnPush.yml , 21d6a157fdb99c6e401c92b0136c64a67aff0423 , 2022-06-22 10:27:22 -0400 , MartinTheDude , GitHub , setup up parellel 
  .gitignore , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
  .idea/inspectionProfiles/profiles_settings.xml , 27dbc1b6044cb50981bd42ad9e9e69a118bb3527 , 2022-06-06 19:17:14 -0400 , MartinTheDude , MartinTheDude , testing 
  .idea/modules.xml , 27dbc1b6044cb50981bd42ad9e9e69a118bb3527 , 2022-06-06 19:17:14 -0400 , MartinTheDude , MartinTheDude , testing 
@@ -40,7 +40,7 @@
  commits.csv , 947ddd76788a0160b063468d2083e601a9b2dcf8 , 2022-06-21 19:50:52 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
  data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
- data/octokit.csv , 9e1c73d55c1d7dde2cb8199f1d7bbac4fb3cda48 , 2022-06-22 14:27:37 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
+ data/octokit.csv , 16859640e3efa0291283400640a506026d1df49b , 2022-06-22 14:24:49 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  magicDrawWriteTo.csv , db2386f714fbaad50b2971e10591dae20c622774 , 2022-06-21 13:26:50 -0400 , MartinTheDude , MartinTheDude , Create magicDrawWriteTo.csv 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
  noMagicAPI/.classpath , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
