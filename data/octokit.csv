@@ -220,12 +220,14 @@
  TestFolder/changer.txt , 8bd0532b6eab8e792b17070ea47c816bc3d198f3 , 2022-06-16 10:56:31 -0400 , MartinTheDude , GitHub , why is it breaking? 
  TestFolder/changer.txt , 45c5fa0d7014211062089645e3e45797efdba1ba , 2022-06-16 10:39:38 -0400 , MartinTheDude , GitHub , Update changer.txt 
  TestFolder/changer.txt , 29d62fef7a30c35636b05f2ebcb6edeb5cc79658 , 2022-06-14 15:45:11 -0400 , MartinTheDude , MartinTheDude , added folder 
+ TestingInstances.mdzip , 99db2ba4703d66342747cfbe35374559520bdcfe , 2022-06-22 12:00:54 -0400 , MartinTheDude , MartinTheDude , Attempting to get live update 
  TestingInstances.mdzip , 4738cfc4c4ba3cdaa71ec8d24f022a4bdbd69462 , 2022-06-22 11:27:39 -0400 , MartinTheDude , MartinTheDude , It works! 
  TestingInstances.mdzip , 257347dd27e2e7feadde92fcc00bd68fd4a61e5f , 2022-06-22 11:10:48 -0400 , MartinTheDude , MartinTheDude , This should show up in commit 
  TestingInstances.mdzip , 78f0d5167ee3e06106cabe88e3cb47ca587a33a5 , 2022-06-22 10:48:08 -0400 , MartinTheDude , MartinTheDude , test sync 
  TestingInstances.mdzip , d15add3fca1baf0e36c25188830e6b1d5c5a5d64 , 2022-06-21 17:09:27 -0400 , MartinTheDude , MartinTheDude , test 
  TestingInstances.mdzip , 85fb0ca074a33ca39211ce22a462ae1e5c01f6d0 , 2022-06-21 14:54:44 -0400 , MartinTheDude , MartinTheDude , update 
  TestingInstances.mdzip , 80247b84f177114bf87762fa603fb627b0e5c81c , 2022-06-21 13:34:38 -0400 , MartinTheDude , MartinTheDude , Testing Placements 
+ TestingInstances.mdzip.bak , 99db2ba4703d66342747cfbe35374559520bdcfe , 2022-06-22 12:00:54 -0400 , MartinTheDude , MartinTheDude , Attempting to get live update 
  TestingInstances.mdzip.bak , 4738cfc4c4ba3cdaa71ec8d24f022a4bdbd69462 , 2022-06-22 11:27:39 -0400 , MartinTheDude , MartinTheDude , It works! 
  TestingInstances.mdzip.bak , 257347dd27e2e7feadde92fcc00bd68fd4a61e5f , 2022-06-22 11:10:48 -0400 , MartinTheDude , MartinTheDude , This should show up in commit 
  TestingInstances.mdzip.bak , 78f0d5167ee3e06106cabe88e3cb47ca587a33a5 , 2022-06-22 10:48:08 -0400 , MartinTheDude , MartinTheDude , test sync 
@@ -304,6 +306,7 @@
  data/formatWizard.m , 89f2a2eaf9871cc916503182c5891713074fe2a1 , 2022-06-13 11:57:38 -0400 , MartinTheDude , MartinTheDude , Delete writeToCSV.yml 
  data/formatWizard.m , 0b04f25043fb1b209bd033c37d6dc0e24c7b752d , 2022-06-13 11:49:53 -0400 , MartinTheDude , MartinTheDude , fulltest 
  data/formatWizard.m , 8237fa3225474e355db12248b83f5c1368dbf774 , 2022-06-13 10:53:29 -0400 , MartinTheDude , MartinTheDude , putting formatWizard in right Folder 
+ data/octokit.csv , f7854bb351fbc618062574e0ad82748537d101fa , 2022-06-22 15:53:24 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , 1570b3f762d661fe2cdf9dbd7f04bb326798b9da , 2022-06-22 15:52:27 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , b431a472972ea82744900a268c74431892b63acb , 2022-06-22 15:45:41 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  data/octokit.csv , a0ac1eed0e241d1f6e461f00cc817c606199de40 , 2022-06-22 15:41:47 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
