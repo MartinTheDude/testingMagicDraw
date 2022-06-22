@@ -2,6 +2,13 @@ name: commitLogOnPush
 on: push
 
 jobs: 
+
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Set up MATLAB
+         uses: matlab-actions/setup-matlab@v1
+  
   populate: 
     runs-on: ubuntu-latest
     steps:
@@ -25,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
   format:
-    needs: populate
+    needs: [populate, setup]
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v2
@@ -37,8 +44,6 @@ jobs:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             
      #Self Hosted Matlab Setup=       
-     - name: Set up MATLAB
-       uses: matlab-actions/setup-matlab@v1
      - name: Run commands
        uses: matlab-actions/run-command@v1
        with:
