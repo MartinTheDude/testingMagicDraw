@@ -11,7 +11,7 @@ jobs:
            ref: ${{ github.event.pull_request.head.sah }}
            fetch-depth: 0
       #Curently Runs Once Through Each File and Fetches Filename, Commit_ID, Time/Date of Commit, Author of File, Author of Commit and Subject
-    - run: git ls-files | while read file; do git log -n 1 --pretty=" $file , %H , %ci , %an , %cn , %s " -- $file; done > data/octokit.cs
+    - run: git ls-files | while read file; do git log -n 1 --pretty=" $file , %H , %ci , %an , %cn , %s " -- $file; done > data/octokit.csv
       #Sets Up and Executees Auto Commit + Push
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
