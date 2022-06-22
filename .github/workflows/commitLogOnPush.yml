@@ -6,10 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      #with:
+      with:
            #This Allows git log to acess full history instead of just latest
-          # ref: ${{ github.event.pull_request.head.sah }}
-          # fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sah }}
+          fetch-depth: 0
       #Curently Runs Once Through Each File and Fetches Filename, Commit_ID, Time/Date of Commit, Author of File, Author of Commit and Subject
     - run: git ls-files | while read file; do git log --pretty=" $file , %H , %ci , %an , %cn , %s " -- $file; done > data/octokit.csv
       #Sets Up and Executees Auto Commit + Push
@@ -21,36 +21,7 @@ jobs:
       env:
          #Ensure Read Package Token is Created Before Using
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-  format:
-    needs: populate
-    runs-on: ubuntu-latest
-    steps:
-     - uses: actions/checkout@v2
-     #Ensures that recently updated info is pulled into this enviroment
-     - name: pull-request
-       uses: repo-sync/pull-request@v2
-       with:
-            destination_branch: "main"
-            github_token: ${{ secrets.GITHUB_TOKEN }}    
-     #Self Hosted Matlab Setup=       
-     - name: Set up MATLAB
-       uses: matlab-actions/setup-matlab@v1
-     - name: Run commands
-       uses: matlab-actions/run-command@v1
-       with:
-           #Runs data/formatWizard.m 
-            command: addpath('data'), formatWizard 
-      #Sets Up and Executees Auto Commit + Push
-     - run: git config --local user.email "action@github.com"
-     - run: git config --local user.name "GitHub Action"
-     - run: git add 'commits.csv'
-     - run: git commit -m "data/commits updated with format"
-     - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
-       env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-          
+
           
      
     
