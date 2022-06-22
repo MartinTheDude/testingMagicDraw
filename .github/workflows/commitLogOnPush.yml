@@ -10,10 +10,8 @@ jobs:
            #This Allows git log to acess full history instead of just latest
            ref: ${{ github.event.pull_request.head.sah }}
            fetch-depth: 0
-           
       #Curently Runs Once Through Each File and Fetches Filename, Commit_ID, Time/Date of Commit, Author of File, Author of Commit and Subject
-    - run: git ls-files | while read file; do git log -n 1 --pretty=" $file , %H , %ci , %an , %cn , %s " -- $file; done > data/octokit.csv
-    
+    - run: git ls-files | while read file; do git log -n 1 --pretty=" $file , %H , %ci , %an , %cn , %s " -- $file; done > data/octokit.cs
       #Sets Up and Executees Auto Commit + Push
     - run: git config --local user.email "action@github.com"
     - run: git config --local user.name "GitHub Action"
@@ -34,8 +32,7 @@ jobs:
        uses: repo-sync/pull-request@v2
        with:
             destination_branch: "main"
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            
+            github_token: ${{ secrets.GITHUB_TOKEN }}    
      #Self Hosted Matlab Setup=       
      - name: Set up MATLAB
        uses: matlab-actions/setup-matlab@v1
@@ -44,7 +41,6 @@ jobs:
        with:
            #Runs data/formatWizard.m 
             command: addpath('data'), formatWizard 
-            
       #Sets Up and Executees Auto Commit + Push
      - run: git config --local user.email "action@github.com"
      - run: git config --local user.name "GitHub Action"
