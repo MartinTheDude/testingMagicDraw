@@ -1,52 +1,52 @@
- .github/workflows/commitLogOnPush.yml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .gitignore , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .idea/inspectionProfiles/profiles_settings.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .idea/modules.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .idea/testingMagicDraw.iml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .idea/vcs.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .idea/workspace.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.lock , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.log , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.oomph.setup/workspace.setup , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.ui.intro/introstate , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- .metadata/version.ini , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- GenericTableTesting.mdzip , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- GenericTableTesting.mdzip.bak , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- Model1.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- README.md , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestFolder/changer.txt , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingInstances.mdzip , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingInstances.mdzip.bak , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingMD.mdzip , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingMD.mdzip.bak , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingMD.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingMD.xml.bak , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- TestingMDXML.xml , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- commits.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- data/commitsLocalOnly.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- data/formatWizard.m , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- data/octokit.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- magicDrawWriteTo.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- model.png , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/.classpath , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/.gitignore , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/.project , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/.settings/org.eclipse.jdt.core.prefs , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/src/imgExporter.java , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- noMagicAPI/src/module-info.java , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
- test.csv , 880d4973bb28d33fcc6329a01b300577af5c22b8 , 2022-06-22 11:36:30 -0400 , MartinTheDude , GitHub , deletingMatlab 
+ .github/workflows/commitLogOnPush.yml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .gitignore , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .idea/inspectionProfiles/profiles_settings.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .idea/modules.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .idea/testingMagicDraw.iml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .idea/vcs.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .idea/workspace.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.lock , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.log , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.oomph.setup/workspace.setup , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.ui.intro/introstate , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ .metadata/version.ini , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ GenericTableTesting.mdzip , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ GenericTableTesting.mdzip.bak , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ Model1.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ README.md , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestFolder/changer.txt , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingInstances.mdzip , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingInstances.mdzip.bak , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingMD.mdzip , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingMD.mdzip.bak , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingMD.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingMD.xml.bak , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ TestingMDXML.xml , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ commits.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ data/commitsLocalOnly.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ data/formatWizard.m , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ data/octokit.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ magicDrawWriteTo.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ model.png , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/.classpath , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/.gitignore , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/.project , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/.settings/org.eclipse.jdt.core.prefs , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/src/imgExporter.java , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ noMagicAPI/src/module-info.java , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
+ test.csv , c3d36bac393064de335758d5736eef25e8030db0 , 2022-06-22 11:36:49 -0400 , MartinTheDude , GitHub , Update README.md 
