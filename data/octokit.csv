@@ -30,17 +30,17 @@
  Model1.csv , 80247b84f177114bf87762fa603fb627b0e5c81c , 2022-06-21 13:34:38 -0400 , MartinTheDude , MartinTheDude , Testing Placements 
  README.md , b0735a553b22df2fd5ab2076df23f930be966d4e , 2022-06-22 11:38:18 -0400 , MartinTheDude , GitHub , Update README.md 
  TestFolder/changer.txt , 8bd0532b6eab8e792b17070ea47c816bc3d198f3 , 2022-06-16 10:56:31 -0400 , MartinTheDude , GitHub , why is it breaking? 
- TestingInstances.mdzip , 4583b449a8f30d66e60ad65df99463a6d3626ac2 , 2022-06-24 10:18:03 -0400 , MartinTheDude , MartinTheDude , Testing Live Updates on the Call 
- TestingInstances.mdzip.bak , 4583b449a8f30d66e60ad65df99463a6d3626ac2 , 2022-06-24 10:18:03 -0400 , MartinTheDude , MartinTheDude , Testing Live Updates on the Call 
+ TestingInstances.mdzip , 016e30f6f85e5cb05417305358cdb7d0123de88a , 2022-06-24 10:28:33 -0400 , MartinTheDude , MartinTheDude , Does this update 
+ TestingInstances.mdzip.bak , 016e30f6f85e5cb05417305358cdb7d0123de88a , 2022-06-24 10:28:33 -0400 , MartinTheDude , MartinTheDude , Does this update 
  TestingMD.mdzip , eed905540947c0e67b123c08136a0ecd8f8cd05e , 2022-06-15 23:43:17 -0400 , MartinTheDude , MartinTheDude , edits 
  TestingMD.mdzip.bak , eed905540947c0e67b123c08136a0ecd8f8cd05e , 2022-06-15 23:43:17 -0400 , MartinTheDude , MartinTheDude , edits 
  TestingMD.xml , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
  TestingMD.xml.bak , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
  TestingMDXML.xml , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
- commits.csv , 459b3f96934aefda8dda6ca6e0bce34424d09784 , 2022-06-23 12:35:58 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
+ commits.csv , 92af1e745c0e98a4ef8ee7eba0376fc5e59902d8 , 2022-06-24 14:21:50 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
  data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
- data/octokit.csv , d7d37f491258c9d06ba08ce3faa0ff00284b4a2b , 2022-06-24 13:53:29 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
+ data/octokit.csv , 92af1e745c0e98a4ef8ee7eba0376fc5e59902d8 , 2022-06-24 14:21:50 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  magicDrawWriteTo.csv , db2386f714fbaad50b2971e10591dae20c622774 , 2022-06-21 13:26:50 -0400 , MartinTheDude , MartinTheDude , Create magicDrawWriteTo.csv 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
  noMagicAPI/.classpath , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
