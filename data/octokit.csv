@@ -32,12 +32,10 @@
  TestingInstances.mdzip , 016e30f6f85e5cb05417305358cdb7d0123de88a , 2022-06-24 10:28:33 -0400 , MartinTheDude , MartinTheDude , Does this update 
  TestingInstances.mdzip.bak , 016e30f6f85e5cb05417305358cdb7d0123de88a , 2022-06-24 10:28:33 -0400 , MartinTheDude , MartinTheDude , Does this update 
  TestingMD.mdzip , eed905540947c0e67b123c08136a0ecd8f8cd05e , 2022-06-15 23:43:17 -0400 , MartinTheDude , MartinTheDude , edits 
- TestingMD.mdzip.bak , eed905540947c0e67b123c08136a0ecd8f8cd05e , 2022-06-15 23:43:17 -0400 , MartinTheDude , MartinTheDude , edits 
- TestingMD.xml , 1cb16e49465c2a43d3ff6bb8ffa8264cff313427 , 2022-05-24 14:32:24 -0400 , MartinTheDude , MartinTheDude , meeting 
  commits.csv , 92af1e745c0e98a4ef8ee7eba0376fc5e59902d8 , 2022-06-24 14:21:50 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
  data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
- data/octokit.csv , e421f6a195321985ff0845961336f0b0d8d32e21 , 2022-06-28 20:30:54 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
+ data/octokit.csv , b0e983111cfcd58b59769af38e736f1f256eef74 , 2022-06-28 20:31:48 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
  noMagicAPI/.classpath , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
  noMagicAPI/.gitignore , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
