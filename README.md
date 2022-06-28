@@ -1,7 +1,7 @@
 # testingMagicDraw
 
-octokit.csv is the unformated file and can be found in the Data folder 
-commits.csv is the formatted Matlab File
+**octokit.csv is the unformated file and can be found in the Data folder 
+commits.csv is the formatted Matlab File**
 
 
 
