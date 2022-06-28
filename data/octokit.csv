@@ -35,11 +35,5 @@
  commits.csv , 92af1e745c0e98a4ef8ee7eba0376fc5e59902d8 , 2022-06-24 14:21:50 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
  data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
- data/octokit.csv , b0e983111cfcd58b59769af38e736f1f256eef74 , 2022-06-28 20:31:48 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
+ data/octokit.csv , 8c5a2daf8044a363e0cd266ac7b32567ddd6289e , 2022-06-28 20:32:14 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
- noMagicAPI/.classpath , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
- noMagicAPI/.gitignore , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
- noMagicAPI/.project , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
- noMagicAPI/.settings/org.eclipse.jdt.core.prefs , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
- noMagicAPI/src/imgExporter.java , c64b5bf84aeb93e3a8680dfa673cd8a4687b8e58 , 2022-06-20 16:11:44 -0400 , MartinTheDude , MartinTheDude , update 
- noMagicAPI/src/module-info.java , c3d23ffc376dcddc03bf374d3556060a54d0a1f5 , 2022-06-20 15:45:50 -0400 , MartinTheDude , MartinTheDude , testing nomagic API 
