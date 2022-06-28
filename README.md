@@ -1,9 +1,10 @@
 # testingMagicDraw
 
-**octokit.csv is the unformated file and can be found in the Data folder 
-commits.csv is the formatted Matlab File**
+**octokit.csv is the unformated file and can be found in the Data folder** 
+**commits.csv is the formatted Matlab File**
 
-
+*If you have any quetions email me @*
+mmartinez311@gatech.edu
 
 This is an experiment to develop how to export Github changes to csv's live
 the data folder has all the raw CSV's but the commits in the main folder is the overall output
