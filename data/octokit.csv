@@ -72,7 +72,7 @@
  .metadata/version.ini , f2076b497d584588eb34a07dd0bafa169a3c3c92 , 2022-06-20 15:11:21 -0400 , MartinTheDude , MartinTheDude , Java 
  GenericTableTesting.mdzip , d15add3fca1baf0e36c25188830e6b1d5c5a5d64 , 2022-06-21 17:09:27 -0400 , MartinTheDude , MartinTheDude , test 
  GenericTableTesting.mdzip.bak , d15add3fca1baf0e36c25188830e6b1d5c5a5d64 , 2022-06-21 17:09:27 -0400 , MartinTheDude , MartinTheDude , test 
- README.md , dce8046d49a4146756ec623b638c9abc383bd9fd , 2022-06-28 16:33:32 -0400 , MartinTheDude , GitHub , Update README.md 
+ README.md , e2ad64cfc8365e0db14951f253b555df803f57dd , 2022-06-28 16:37:08 -0400 , MartinTheDude , GitHub , Update README.md 
  TestFolder/changer.txt , 8bd0532b6eab8e792b17070ea47c816bc3d198f3 , 2022-06-16 10:56:31 -0400 , MartinTheDude , GitHub , why is it breaking? 
  TestingInstances.mdzip , 1d4706a886b1e3e0c01f591ed497405fef6a9c2f , 2022-06-28 16:35:48 -0400 , MartinTheDude , MartinTheDude , finishing up 
  TestingInstances.mdzip.bak , 1d4706a886b1e3e0c01f591ed497405fef6a9c2f , 2022-06-28 16:35:48 -0400 , MartinTheDude , MartinTheDude , finishing up 
@@ -80,7 +80,7 @@
  commits.csv , 92af1e745c0e98a4ef8ee7eba0376fc5e59902d8 , 2022-06-24 14:21:50 +0000 , GitHub Action , GitHub Action , data/commits updated with format 
  data/commitsLocalOnly.csv , 190705541150aca84a2190ae1e27bedff0e75919 , 2022-06-14 11:07:08 -0400 , MartinTheDude , GitHub , csved 
  data/formatWizard.m , 4d4914fa73d6092363ac311574be4aeffa0dd758 , 2022-06-20 16:54:56 -0400 , MartinTheDude , GitHub , change delims 2 
- data/octokit.csv , 0a23ac92bf9f63524ab0e12fe3473c1d0cddc3e1 , 2022-06-28 20:35:10 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
+ data/octokit.csv , 33a0c2d1b93cb5ad5156741d15bf6361f826a34e , 2022-06-28 20:36:07 +0000 , GitHub Action , GitHub Action , data/octokit.csv updated 
  model.png , 46a8a26f8c1bc712834bc0623c36f3807e4b8880 , 2022-06-15 12:22:40 -0400 , MartinTheDude , MartinTheDude , Create model.png 
  noMagicAPI/bin/.classpath , 1d4706a886b1e3e0c01f591ed497405fef6a9c2f , 2022-06-28 16:35:48 -0400 , MartinTheDude , MartinTheDude , finishing up 
  noMagicAPI/bin/.gitignore , 1d4706a886b1e3e0c01f591ed497405fef6a9c2f , 2022-06-28 16:35:48 -0400 , MartinTheDude , MartinTheDude , finishing up 
